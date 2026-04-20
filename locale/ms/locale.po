@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ms\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Tema OJS yang dibangunkan oleh jurnal Swiss Medical Weekly, berdasarkan Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Pemilih warna"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Pilih warna untuk bahagian yang akan dipaparkan di bahagian hadapan jurnal. Mestilah kod hex HTML yang sah (cth. #ffff00 untuk kuning)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Imej muka hadapan bahagian"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Warna bahagian Pengumuman pada halaman utama jurnal"
+
+msgid "editor.issues.sectionArea"
+msgstr "Pilihan untuk bahagian terbitan"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Diterbitkan"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Penerangan terbitan"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Persetujuan"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Menu utama"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Tukar bahasa. Bahasa semasa:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Menu pentadbir"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Tentang jurnal"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Lihat terbitan penuh"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parameter"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Imej muka hadapan"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Layar mengikut pengarang"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Butiran pengarang"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Tunjukkan penerangan bahagian"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Jika diaktifkan, penerangan bahagian akan dipaparkan di bawah bahagian yang berkenaan pada halaman utama jurnal"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Nyahdayakan"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Dayakan; memerlukan pemalam Browse By Section diaktifkan"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Tunjukkan penerangan jurnal"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Jika didayakan, penerangan jurnal akan dipaparkan pada halaman pendaratan jurnal"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Nyahdayakan (lalai)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Dayakan"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Latar belakang penerangan jurnal"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Warna latar belakang untuk bahagian penerangan jurnal pada halaman utama jurnal"

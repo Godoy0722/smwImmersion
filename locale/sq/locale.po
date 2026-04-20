@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: sq\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Një temë OJS e zhvilluar nga revista Swiss Medical Weekly, bazuar në Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Zgjedhësi i ngjyrës"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Zgjidhni një ngjyrë për një seksion që do të shfaqet në pjesën e përparme të revistës. Duhet të jetë kod HTML hex i vlefshëm (p.sh., #ffff00 për të verdhë)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Imazhi i kopertinës së seksionit"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Ngjyra e seksionit të Njoftimeve në faqen kryesore të revistës"
+
+msgid "editor.issues.sectionArea"
+msgstr "Opsionet për seksionet e numrit"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Publikuar"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Përshkrimi i numrit"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Pëlqimi"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Menyja kryesore"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Ndrysho gjuhën. Gjuha aktuale:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Menyja e administratorit"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Rreth revistës"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Shihni numrin e plotë"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametrat"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Imazhi i kopertinës"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Shfleto sipas autorit"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Detajet e autorit"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Shfaq përshkrimin e seksionit"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Nëse aktivizohet, përshkrimi i seksionit do të shfaqet nën seksionin përkatës në faqen kryesore të revistës"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Çaktivizo"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Aktivizo; kërkon që shtojca Browse By Section të jetë aktive"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Shfaq përshkrimin e revistës"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Nëse aktivizohet, përshkrimi i revistës do të shfaqet në faqen kryesore të revistës"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Çaktivizo (parazgjedhur)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Aktivizo"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Sfondi i përshkrimit të revistës"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Ngjyra e sfondit për seksionin e përshkrimit të revistës në faqen kryesore të revistës"

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: hsb\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS tema, wuwita wot magacina Swiss Medical Weekly, na zakładźe Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Wuběr barby"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Wubjerće barbu za wotrězk, kotryž so na wróćniku časopisa pokazuje. Dyrbi płaćiwy HTML hex kod być (na př. #ffff00 za žołty)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Wobraz titulneje strony wotrězka"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Barba wotrězka Powěsćow na startowej stronje časopisa"
+
+msgid "editor.issues.sectionArea"
+msgstr "Opcije za wotrězki čisła"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Wozjewjene"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Wopisanje čisła"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Dowolnosć"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Hłowne meni"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Změnić rěč. Aktualna rěč:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Meni zastojnika"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Wo časopisu"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Cyłe čisło widźeć"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametry"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Wobraz titulneje strony"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Přepytować po awtorje"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Podrobnosće awtora"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Wopisanje wotrězka pokazać"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Jeli je zmóžnjene, so wopisanje wotrězka pod přisłušnym wotrězkom na startowej stronje časopisa pokazuje"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Znjemóžnić"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Zmóžnić; trjeba zmóžnjeny tykač Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Wopisanje časopisa pokazać"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Jeli je zmóžnjene, so wopisanje časopisa na přizemjenskej stronje časopisa pokazuje"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Znjemóžnić (standard)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Zmóžnić"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Pozadk wopisanja časopisa"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Pozadkowa barba za wotrězk wopisanja časopisa na startowej stronje časopisa"

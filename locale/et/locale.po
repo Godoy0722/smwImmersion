@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: et\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS-teema, mille on välja töötanud ajakiri Swiss Medical Weekly, põhineb teemal Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Värvi valija"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Valige värv sektsioonile, mis kuvatakse ajakirja esilehel. Peab olema kehtiv HTML hex-kood (nt #ffff00 kollase jaoks)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Sektsiooni kaanepilt"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Teadete sektsiooni värv ajakirja avalehel"
+
+msgid "editor.issues.sectionArea"
+msgstr "Numbri sektsioonide valikud"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Avaldatud"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Numbri kirjeldus"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Nõusolek"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Peamenüü"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Muuda keelt. Praegune keel:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Administraatori menüü"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Ajakirjast"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Vaata tervet numbrit"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parameetrid"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Kaanepilt"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Sirvi autori järgi"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Autori andmed"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Näita sektsiooni kirjeldust"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Kui see on aktiveeritud, kuvatakse sektsiooni kirjeldus vastava sektsiooni all ajakirja avalehel"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Keela"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Luba; nõuab aktiveeritud Browse By Section pistikprogrammi"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Näita ajakirja kirjeldust"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Kui see on lubatud, kuvatakse ajakirja kirjeldus ajakirja sihtlehel"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Keela (vaikimisi)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Luba"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Ajakirja kirjelduse taust"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Ajakirja avalehel oleva ajakirja kirjelduse sektsiooni taustavärv"

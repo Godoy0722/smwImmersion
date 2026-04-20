@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ps\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "د OJS تیم چې د Swiss Medical Weekly ژورنال لخوا جوړ شوی، د Immersion پر بنسټ."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "د رنګ ټاکونکی"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "د ژورنال مخ اړخ کې ښودل شوې برخې لپاره رنګ وټاکئ. باید د HTML سم هیکس کوډ وي (د مثال په توګه، د ژیړ لپاره #ffff00)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "د برخې د پوښ انځور"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "د ژورنال په کور پاڼه کې د خبرتیاوو برخې رنګ"
+
+msgid "editor.issues.sectionArea"
+msgstr "د ګڼې برخو لپاره اختیارونه"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "خپور شوی"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "د ګڼې تشریح"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "رضایت"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "اصلي مینو"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "ژبه بدله کړئ. اوسنۍ ژبه:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "د ادارې مینو"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "د ژورنال په اړه"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "بشپړه ګڼه وګورئ"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "پراميترونه"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "ژوندليک"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "د پوښ انځور"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "د لیکوال پر بنسټ لټون"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "د لیکوال جزئیات"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "د برخې تشریح وښایاست"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "که فعال شوی وي، د برخې تشریح به د ژورنال په کور پاڼه کې د اړوندې برخې لاندې ښودل کیږي"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "ناچله کول"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "چلول؛ د Browse By Section پلګین فعاله کول اړین دي"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "د ژورنال تشریح وښایاست"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "که فعاله شي، د ژورنال تشریح به د ژورنال په اصلي پاڼه کې ښودل کیږي"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "ناچله کول (اصلي)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "چلول"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "د ژورنال د تشریح شاليد"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "د ژورنال په کور پاڼه کې د ژورنال تشریح برخې شاليد رنګ"

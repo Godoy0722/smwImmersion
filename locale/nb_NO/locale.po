@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: nb_NO\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Et OJS-tema utviklet av tidsskriftet Swiss Medical Weekly, basert på Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Fargevelger"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Velg en farge for en seksjon som skal vises på tidsskriftets forside. Må være en gyldig HTML-hex-kode (f.eks. #ffff00 for gul)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Seksjonsforsidebilde"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Farge på Kunngjøringer-seksjonen på tidsskriftets hjemmeside"
+
+msgid "editor.issues.sectionArea"
+msgstr "Alternativer for seksjonene i utgaven"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Publisert"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Utgavebeskrivelse"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Samtykke"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Hovedmeny"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Bytt språk. Gjeldende språk:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Administratormeny"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Om tidsskriftet"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Se hele utgaven"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametere"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Forsidebilde"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Bla etter forfatter"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Forfatterdetaljer"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Vis seksjonsbeskrivelse"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Hvis aktivert, vises seksjonsbeskrivelsen under tilhørende seksjon på tidsskriftets hjemmeside"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Deaktiver"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Aktiver; krever at Browse By Section-pluginet er aktivert"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Vis tidsskriftbeskrivelse"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Hvis aktivert, vises tidsskriftbeskrivelsen på tidsskriftets landingsside"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Deaktiver (standard)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Aktiver"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Bakgrunn for tidsskriftbeskrivelse"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Bakgrunnsfarge for tidsskriftbeskrivelsesseksjonen på forsiden"

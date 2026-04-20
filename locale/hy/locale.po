@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: hy\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS ձևանմուշ, որը մշակվել է Swiss Medical Weekly ամսագրի կողմից, հիմնված է Immersion-ի վրա:"
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Գույնի ընտրիչ"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Ընտրեք գույն բաժնի համար, որը կցուցադրվի ամսագրի առջևի մասում: Պետք է լինի վավեր HTML hex կոդ (օր. #ffff00՝ դեղինի համար):"
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Բաժնի կազմի պատկեր"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Հայտարարությունների բաժնի գույնը ամսագրի գլխավոր էջում"
+
+msgid "editor.issues.sectionArea"
+msgstr "Համարի բաժինների տարբերակներ"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Հրապարակված է"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Համարի նկարագրություն"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Համաձայնություն"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Հիմնական ընտրացանկ"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Փոխել լեզուն: Ընթացիկ լեզուն՝"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Ադմինիստրատորի ընտրացանկ"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Ամսագրի մասին"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Տեսնել ամբողջ համարը"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Պարամետրեր"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Կենսագրություն"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Կազմի պատկեր"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Ըստ հեղինակի զննարկում"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Հեղինակի տվյալներ"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Ցույց տալ բաժնի նկարագրությունը"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Եթե ակտիվացված է, բաժնի նկարագրությունը կցուցադրվի համապատասխան բաժնի տակ ամսագրի գլխավոր էջում"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Անջատել"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Միացնել; անհրաժեշտ է ակտիվացված Browse By Section հավելված"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Ցույց տալ ամսագրի նկարագրությունը"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Եթե միացված է, ամսագրի նկարագրությունը կցուցադրվի ամսագրի ելքային էջում"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Անջատել (լռելյայն)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Միացնել"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Ամսագրի նկարագրության ֆոն"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Ամսագրի նկարագրության բաժնի ֆոնի գույնը ամսագրի գլխավոր էջում"

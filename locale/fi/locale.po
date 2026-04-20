@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: fi\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly -lehden kehittämä, Immersion-teemaan pohjautuva OJS-teema."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Värivalitsin"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Valitse väri osiolle, joka näytetään lehden etusivulla. Tulee olla kelvollinen HTML-heksakoodi (esim. #ffff00 keltaiselle)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Osion kansikuva"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Ilmoitukset-osion väri lehden etusivulla"
+
+msgid "editor.issues.sectionArea"
+msgstr "Numeron osioiden asetukset"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Julkaistu"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Numeron kuvaus"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Suostumus"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Päävalikko"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Vaihda kieltä. Nykyinen kieli:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Ylläpitovalikko"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Tietoa lehdestä"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Näytä koko numero"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametrit"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Kansikuva"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Selaa tekijän mukaan"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Tekijän tiedot"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Näytä osion kuvaus"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Jos aktivoitu, osion kuvaus näytetään vastaavan osion alla lehden etusivulla"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Poista käytöstä"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Ota käyttöön; vaatii Browse By Section -lisäosan aktivoinnin"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Näytä lehden kuvaus"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Jos käytössä, lehden kuvaus näytetään lehden aloitussivulla"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Poista käytöstä (oletus)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Ota käyttöön"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Lehden kuvauksen tausta"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Lehden kuvausosion taustaväri lehden etusivulla"

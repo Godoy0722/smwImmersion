@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ckb\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "ڕوکاری OJS کە گۆڤاری Swiss Medical Weekly گەشەی پێ داوە، بەپشتبەستوو بە Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "هەڵبژاردنی ڕەنگ"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "ڕەنگێک هەڵبژێرە بۆ بەشێک کە لە پێشەوەی گۆڤارەکە نیشان بدرێت. دەبێت کۆدی HTML سیکستیڤی دروست بێت (نموونە، #ffff00 بۆ زەرد)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "وێنەی سەرپۆشی بەش"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "ڕەنگی بەشی ڕاگەیاندنەکان لە ماڵپەڕی سەرەکی گۆڤار"
+
+msgid "editor.issues.sectionArea"
+msgstr "هەڵبژاردەکان بۆ بەشەکانی ژمارە"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "بڵاوکراوەتەوە"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "پێناسەی ژمارە"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "ڕەزامەندی"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "مێنوی سەرەکی"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "زمان بگۆڕە. زمانی ئێستا:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "مێنوی بەڕێوەبەر"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "دەربارەی گۆڤار"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "بینینی ژمارەی تەواو"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "پارامەترەکان"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "ژیاننامە"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "وێنەی سەرپۆش"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "گەڕان بەپێی نوسەر"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "وردەکارییەکانی نوسەر"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "پیشاندانی پێناسەی بەش"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "ئەگەر چالاک بکرێت، پێناسەی بەش لەژێر بەشی پەیوەندیدار لە ماڵپەڕی سەرەکی گۆڤار پیشان دەدرێت"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "ناچالاککردن"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "چالاککردن؛ پێویستە پێوەکراوی Browse By Section چالاک بێت"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "پیشاندانی پێناسەی گۆڤار"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "ئەگەر چالاک بکرێت، پێناسەی گۆڤار لە پەڕەی سەرەکی گۆڤار پیشان دەدرێت"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "ناچالاککردن (بنەڕەت)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "چالاککردن"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "پاشبنەمای پێناسەی گۆڤار"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "ڕەنگی پاشبنەما بۆ بەشی پێناسەی گۆڤار لە ماڵپەڕی سەرەکی گۆڤار"

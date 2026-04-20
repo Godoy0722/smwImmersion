@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: dsb\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS tema, kótaruž jo wuwiła magazin Swiss Medical Weekly, na zakładźe Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Wuběrk barwy"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Wubjerjśo barwu za wótrězk, kótaryž se na wrotniku magazina pokazujo. Musy płaśiwy HTML hex kod byś (např. #ffff00 za žołty)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Wobraz titulneje strony wótrězka"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Barwa wótrězka Powěźenja na startowej bóce magazina"
+
+msgid "editor.issues.sectionArea"
+msgstr "Opcije za wótrězki numera"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Wózjawjone"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Wopisanje numera"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Pśizwólenje"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Głowne meni"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Změniś rěc. Aktualna rěc:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Menu zastojnika"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Wó magazinje"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Ceły numer wiźeś"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametry"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Wobraz titulneje strony"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Pśepytaś pó awtorje"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Drobnostki awtora"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Wopisanje wótrězka pokazaś"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Gaž jo zmóžnjone, se wopisanje wótrězka pód pśisłušnym wótrězkom na startowej bóce magazina pokazujo"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Znjemóžniś"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Zmóžniś; trjeba zmóžnjony tykač Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Wopisanje magazina pokazaś"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Gaž jo zmóžnjone, se wopisanje magazina na pśizemjeńskej bóce magazina pokazujo"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Znjemóžniś (standard)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Zmóžniś"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Slězyna wopisanja magazina"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Slězyńska barwa za wótrězk wopisanja magazina na startowej bóce magazina"

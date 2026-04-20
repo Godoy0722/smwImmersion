@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: fa\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "پوسته OJS توسعه‌یافته توسط مجله Swiss Medical Weekly، مبتنی بر پوسته Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "انتخاب‌گر رنگ"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "رنگی را برای بخشی انتخاب کنید که در صفحه اصلی مجله نمایش داده می‌شود. باید یک کد هگز HTML معتبر باشد (مثلاً #ffff00 برای زرد)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "تصویر جلد بخش"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "رنگ بخش اعلانات در صفحه اصلی مجله"
+
+msgid "editor.issues.sectionArea"
+msgstr "گزینه‌ها برای بخش‌های شماره"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "منتشر شده"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "توضیح شماره"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "رضایت"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "منوی اصلی"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "تغییر زبان. زبان کنونی:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "منوی مدیریت"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "درباره مجله"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "مشاهده شماره کامل"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "پارامترها"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "زندگی‌نامه"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "تصویر جلد"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "مرور بر اساس نویسنده"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "جزئیات نویسنده"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "نمایش توضیحات بخش"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "در صورت فعال‌سازی، توضیحات بخش در زیر بخش مربوطه در صفحه اصلی مجله نمایش داده می‌شود"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "غیرفعال"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "فعال؛ به افزونه فعال Browse By Section نیاز دارد"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "نمایش توضیحات مجله"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "در صورت فعال‌سازی، توضیحات مجله در صفحه اصلی مجله نمایش داده می‌شود"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "غیرفعال (پیش‌فرض)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "فعال"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "پس‌زمینه توضیحات مجله"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "رنگ پس‌زمینه بخش توضیحات مجله در صفحه اصلی مجله"

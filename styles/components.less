@@ -1,0 +1,128 @@
+/**
+ * @file styles/components.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Reusable components styles
+ *
+ */
+
+.pkp_structure_head,
+.pkp_structure_footer {
+    background: @background;
+}
+
+button {
+    border-color: @background;
+}
+
+.btn {
+    border-radius: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: smaller;
+    border: 1px solid transparent;
+    background-color: transparent;
+    transition: all 0.3s ease;
+
+    &:hover {
+        background-color: #fff;
+        color: #000;
+        border-color: #000;
+    }
+}
+
+.btn-primary {
+    background-color: @navy-green;
+    border: 1px solid @navy-green;
+    font-weight: 600;
+    color: #fff;
+
+    &:hover,
+    &:not(:disabled):not(.disabled).active,
+    &:not(:disabled):not(.disabled):active,
+    .show>&.dropdown-toggle {
+        background-color: @background-light;
+    }
+}
+
+.btn-secondary {
+    text-decoration: none !important;
+}
+
+.btn-secondary, a.btn-secondary {
+    background-color: transparent;
+    border: 1px solid @text-color;
+    color: @text-color;
+
+    &:hover {
+        background-color: @text-color;
+        border: 1px solid @text-color;
+        color: @white !important;
+    }
+}
+
+.nav-link {
+    text-decoration: none !important;
+}
+
+.sidetoc a {
+    text-decoration: none !important;
+}
+
+.search__form {
+    background-color: @navy-green;
+}
+
+.announcements {
+    padding: 2vh 0 3vh 0;
+    background-color: @background-lighter !important;
+}
+
+section.announcements>div>ul>li>p {
+    display: none;
+}
+
+p.announcement__date {
+    display: block !important;
+}
+
+.journal-description {
+    padding: 4vh 0 3vh 0;
+}
+
+#immersion_content_main {
+    >section.journal-description>div>header>h3 {
+        display: none;
+    }
+
+    >section.journal-description>div>div>div>p>a.btn {
+        display: none;
+    }
+
+    >section>div {
+        min-height: 10vh;
+    }
+}
+
+aside {
+    background-color: @white;
+
+    a:after {
+        content: none;
+    }
+}
+
+.item li {
+    margin-bottom: 1.25rem;
+    list-style-type: none;
+}
+
+.exlink a {
+    text-decoration: none !important;
+}
+
+.visually-hidden {
+    display: none;
+}

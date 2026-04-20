@@ -1,0 +1,81 @@
+/**
+ * @file styles/header.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Header and navigation styles
+ *
+ */
+
+.main-header {
+  background-color: @navy-green;
+  padding-top: .25rem;
+
+  &__title {
+    margin: .25rem auto !important;
+        padding-top: 0;
+        padding-bottom: 0;
+  }
+
+  &__nav-link {
+    color: @white;
+    background-color: @light-green;
+    border: 1px solid @light-green !important;
+    padding: 10px 8px 8px 8px;
+    text-decoration: none !important;
+
+    &:hover {
+      color: @white !important;
+      background-color: @light-green-hover;
+      border: 1px solid @white !important;
+    }
+
+    &:focus, &:active {
+      color: @white;
+      background-color: @light-green-hover;
+    }
+  }
+}
+
+.navbar-expand-sm {
+  background-color: @light-green;
+}
+
+.navbar-toggler {
+  background-color: @white;
+    border-radius: 0;
+}
+
+#navigationPrimary {
+  .dropdown-menu.show {
+    background-color: @background-lighter;
+    justify-content: space-evenly;
+  }
+
+  .dropdown-item {
+    a {
+      color: #1b9854;
+      border: 1px solid @background-lighter;
+
+      &:focus, &:hover {
+        background-color: @background-light;
+        border: 1px solid #1b9854;
+      }
+    }
+  }
+}
+
+.page_index:not(.indexSite) .main-header {
+    padding-top: 0.25rem;
+}
+
+.page_index:not(.indexSite) .main-header__title {
+  margin: 2vh auto 6vh auto;
+}
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}

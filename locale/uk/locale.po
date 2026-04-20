@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: uk\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Тема OJS, розроблена журналом Swiss Medical Weekly, на основі Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Вибір кольору"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Виберіть колір для розділу, який відображається на головній сторінці журналу. Має бути дійсним HTML hex-кодом (наприклад, #ffff00 для жовтого)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Зображення обкладинки розділу"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Колір розділу Оголошення на головній сторінці журналу"
+
+msgid "editor.issues.sectionArea"
+msgstr "Параметри розділів випуску"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Опубліковано"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Опис випуску"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Згода"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Головне меню"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Змінити мову. Поточна мова:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Меню адміністратора"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Про журнал"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Переглянути повний випуск"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Параметри"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Біографія"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Зображення обкладинки"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Перегляд за автором"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Деталі автора"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Показувати опис розділу"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Якщо активовано, опис розділу буде показано під відповідним розділом на головній сторінці журналу"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Вимкнути"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Увімкнути; потрібен активований плагін Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Показувати опис журналу"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Якщо увімкнено, опис журналу відображатиметься на посадковій сторінці журналу"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Вимкнути (за замовчуванням)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Увімкнути"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Фон опису журналу"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Колір фону розділу з описом журналу на головній сторінці журналу"

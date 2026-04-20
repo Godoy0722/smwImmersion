@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: nl\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Een OJS-thema ontwikkeld door het tijdschrift Swiss Medical Weekly, gebaseerd op Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Kleurkiezer"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Kies een kleur voor een sectie om op de voorkant van het tijdschrift weer te geven. Moet een geldige HTML-hexcode zijn (bijv. #ffff00 voor geel)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Sectie-omslagafbeelding"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Kleur van de aankondigingensectie op de homepage van het tijdschrift"
+
+msgid "editor.issues.sectionArea"
+msgstr "Opties voor secties van een nummer"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Gepubliceerd"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Beschrijving van het nummer"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Toestemming"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Hoofdmenu"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Wijzig de taal. De huidige taal is:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Beheerdersmenu"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Over het tijdschrift"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Bekijk het volledige nummer"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parameters"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Omslagafbeelding"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Bladeren op auteur"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Auteursgegevens"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Sectiebeschrijving tonen"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Indien geactiveerd wordt de sectiebeschrijving getoond onder de bijbehorende sectie op de tijdschrift-homepage"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Uitschakelen"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Inschakelen; vereist dat de Browse By Section-plug-in is geactiveerd"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Tijdschriftbeschrijving tonen"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Indien ingeschakeld wordt de tijdschriftbeschrijving getoond op de landingspagina van het tijdschrift"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Uitschakelen (standaard)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Inschakelen"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Achtergrond tijdschriftbeschrijving"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Achtergrondkleur voor de tijdschriftbeschrijvingssectie op de homepage van het tijdschrift"

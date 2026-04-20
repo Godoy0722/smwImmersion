@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ky\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly журналы иштеп чыккан, Immersion негизиндеги OJS темасы."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Түс тандоочу"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Журналдын башкы бетинде көрсөтүлгөн бөлүм үчүн түс тандаңыз. Жарактуу HTML hex коду болушу керек (мисалы, сары үчүн #ffff00)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Бөлүмдүн мукаба сүрөтү"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Журналдын башкы бетиндеги Жарыялар бөлүмүнүн түсү"
+
+msgid "editor.issues.sectionArea"
+msgstr "Чыгарылыштын бөлүмдөрү үчүн параметрлер"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Жарыяланды"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Чыгарылыштын сүрөттөмөсү"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Макулдук"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Негизги меню"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Тилди өзгөртүү. Учурдагы тил:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Админ меню"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Журнал жөнүндө"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Толук чыгарылышты көрүү"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Параметрлер"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Био"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Мукаба сүрөтү"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Автор боюнча кароо"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Автор тууралуу маалымат"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Бөлүмдүн сүрөттөмөсүн көрсөтүү"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Иштетилсе, бөлүмдүн сүрөттөмөсү журналдын башкы бетиндеги тиешелүү бөлүмдүн астында көрсөтүлөт"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Өчүрүү"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Иштетүү; Browse By Section плагини иштетилиши керек"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Журнал сүрөттөмөсүн көрсөтүү"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Иштетилсе, журналдын сүрөттөмөсү журналдын башкы бетинде көрсөтүлөт"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Өчүрүү (демейки)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Иштетүү"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Журнал сүрөттөмөсүнүн фону"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Журналдын башкы бетиндеги журнал сүрөттөмөсү бөлүмүнүн фондук түсү"

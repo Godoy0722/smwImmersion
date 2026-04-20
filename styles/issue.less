@@ -1,0 +1,77 @@
+/**
+ * @file styles/issue.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Issue and issue archive styles
+ *
+ */
+
+.issue {
+  padding-top: 3.25vh;
+  background-color: @issue-background;
+  color: @text-color;
+
+  &__meta {
+    padding-bottom: 0;
+        margin-top: 0;
+  }
+
+  &__title {
+        margin: .15em 0 !important;
+
+    span:last-of-type {
+      display: inline;
+
+      &::before {
+        content: none;
+      }
+    }
+  }
+
+  &__number {
+    font-weight: 400 !important;
+  }
+}
+
+.issue-section {
+  padding: 5vh 0 3vh 0;
+
+    h3, h4 {
+        margin-top: 0 !important;
+    }
+}
+
+#immersion_content_main > section > section.issue-section > div > div > div > ol > li > article > div {
+  > div.col-md-4 {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+
+  > div.col-md-8 {
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+
+  > div.offset-md-4 {
+    margin-left: 0;
+  }
+}
+
+.article__btn {
+    &:hover {
+        color: @white !important;
+    }
+}
+
+.archived-issue {
+    &__title {
+        margin-top: 0.75rem !important;
+    }
+
+    &__date {
+        margin-bottom: 1.25rem !important;
+    }
+}

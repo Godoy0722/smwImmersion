@@ -1,0 +1,102 @@
+/**
+ * @file styles/article.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Article page styles
+ *
+ */
+
+.article-page {
+  background-color: @background-light;
+  color: @text-color;
+
+  a {
+    color: @navy-green;
+  }
+
+  &__title {
+    font-size: 2rem;
+        margin: .15em 0 !important;
+  }
+
+    &__subtitle {
+    font-size: 1.5rem !important;
+        margin: 1.5rem 0 !important;
+  }
+
+  &__galleys {
+    margin: 2vh 0;
+  }
+
+  &__meta {
+    .authors-string {
+        &__item {
+            a {
+                text-decoration: none!important;
+
+                &:hover {
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+  }
+}
+
+.list-galleys {
+  a {
+    background-color: @light-green;
+    border: 1px solid @light-green;
+    font-weight: 600;
+    color: @text-color;
+    padding: 6px 12px;
+  }
+}
+
+p.affiliation {
+  font-size: @font-size-base;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 1rem;
+}
+
+.article__btn {
+  text-decoration: none !important;
+}
+
+.notes {
+  dd, dd > p {
+    margin-bottom: 6px;
+  }
+}
+
+.img-fluid {
+  object-fit: cover;
+  height: 180px;
+  width: 180px;
+  object-position: 50% 50%;
+}
+
+a.mimage {
+  border-bottom: none !important;
+
+  &:hover {
+    border-bottom: none !important;
+  }
+
+  &:after {
+    border-bottom: none !important;
+  }
+}
+
+.item.shariffblock .shariff.item {
+    margin-top: 1.5rem !important;
+}
+
+div.copyright-info {
+    margin-top: 1.5rem !important;
+    margin-bottom: 0 !important;
+}

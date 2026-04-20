@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: az\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly jurnalı tərəfindən işlənmiş, Immersion əsaslı OJS mövzusu."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Rəng seçici"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Jurnalın ön tərəfində göstəriləcək bölmə üçün rəng seçin. Etibarlı HTML hex kodu olmalıdır (məsələn, sarı üçün #ffff00)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Bölmənin örtük şəkli"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Jurnalın ana səhifəsindəki Elanlar bölməsinin rəngi"
+
+msgid "editor.issues.sectionArea"
+msgstr "Buraxılışın bölmələri üçün seçimlər"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Dərc olunub"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Buraxılışın təsviri"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Razılıq"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Əsas menyu"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Dili dəyişdir. Cari dil:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Admin menyusu"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Jurnal haqqında"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Tam buraxılışı bax"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametrlər"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Örtük şəkli"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Müəllifə görə bax"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Müəllif detalları"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Bölmə təsvirini göstər"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Aktivləşdirilərsə, bölmə təsviri müvafiq bölmənin altında jurnalın ana səhifəsində göstəriləcək"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Deaktiv et"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Aktiv et; Browse By Section plaginin aktiv olması tələb olunur"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Jurnal təsvirini göstər"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Aktivləşdirilərsə, jurnal təsviri jurnalın əsas səhifəsində göstəriləcək"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Deaktiv et (standart)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Aktiv et"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Jurnal təsvirinin fonu"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Jurnalın ana səhifəsindəki jurnal təsviri bölməsinin fon rəngi"

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: gd\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Ùrlar OJS a chaidh a leasachadh leis an iris Swiss Medical Weekly, stèidhichte air Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Roghnaiche dhathan"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Tagh dath airson earrainn a nochdar air aghaidh na h-irise. Feumaidh e bhith na chòd HTML hex dligheach (m.e. #ffff00 airson buidhe)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Ìomhaigh còmhdaich na h-earrainn"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Dath earrann Brathan air duilleag-dachaigh na h-irise"
+
+msgid "editor.issues.sectionArea"
+msgstr "Roghainnean airson earrannan an àireimh"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Foillsichte"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Tuairisgeul an àireimh"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Cead"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Prìomh chlàr-taice"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Atharraich cànan. An cànan làithreach:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Clàr-taice rianaire"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Mun iris"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Faic an àireamh slàn"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Paraimearan"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Ìomhaigh còmhdaich"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Rannsaich a rèir ùghdair"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Mion-fhiosrachadh an ùghdair"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Seall tuairisgeul na h-earrainn"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Ma tha seo an gnìomh, nochdaidh tuairisgeul na h-earrainn fon earrann iomchaidh air duilleag-dachaigh na h-irise"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Cuir à comas"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Cuir an comas; feumaidh am plugan Browse By Section a bhith an gnìomh"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Seall tuairisgeul na h-irise"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Ma tha e an gnìomh, nochdaidh tuairisgeul na h-irise air duilleag-laighe na h-irise"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Cuir à comas (bun-roghainn)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Cuir an comas"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Cùl tuairisgeul na h-irise"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Dath cùl airson earrann tuairisgeul na h-irise air duilleag-dachaigh na h-irise"

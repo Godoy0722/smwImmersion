@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: lo\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "ຮູບແບບ OJS ທີ່ພັດທະນາໂດຍວາລະສານ Swiss Medical Weekly, ອີງຕາມ Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "ເລືອກສີ"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "ເລືອກສີສຳລັບພາກທີ່ຈະສະແດງໃນດ້ານໜ້າຂອງວາລະສານ. ຕ້ອງເປັນລະຫັດ HTML hex ທີ່ຖືກຕ້ອງ (ເຊັ່ນ #ffff00 ສຳລັບສີເຫຼືອງ)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "ຮູບພາບໜ້າປົກພາກ"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "ສີຂອງພາກປະກາດໃນໜ້າຫຼັກຂອງວາລະສານ"
+
+msgid "editor.issues.sectionArea"
+msgstr "ຕົວເລືອກສຳລັບພາກຕ່າງໆຂອງສະບັບ"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "ເຜີຍແຜ່ແລ້ວ"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "ລາຍລະອຽດສະບັບ"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "ຍິນຍອມ"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "ເມນູຫຼັກ"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "ປ່ຽນພາສາ. ພາສາປັດຈຸບັນ:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "ເມນູຜູ້ດູແລ"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "ກ່ຽວກັບວາລະສານ"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "ເບິ່ງສະບັບເຕັມ"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "ພາລາມິເຕີ"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "ປະຫວັດ"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "ຮູບພາບໜ້າປົກ"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "ຄົ້ນຫາຕາມຜູ້ຂຽນ"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "ລາຍລະອຽດຜູ້ຂຽນ"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "ສະແດງຄຳອະທິບາຍພາກ"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "ຖ້າເປີດໃຊ້ງານ, ຄຳອະທິບາຍພາກຈະຖືກສະແດງຢູ່ພາຍໃຕ້ພາກທີ່ກ່ຽວຂ້ອງໃນໜ້າຫຼັກຂອງວາລະສານ"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "ປິດໃຊ້ງານ"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "ເປີດໃຊ້ງານ; ຕ້ອງການປລັກອິນ Browse By Section ທີ່ເປີດໃຊ້ງານ"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "ສະແດງຄຳອະທິບາຍວາລະສານ"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "ຖ້າເປີດໃຊ້ງານ, ຄຳອະທິບາຍວາລະສານຈະຖືກສະແດງຢູ່ໜ້າຫຼັກຂອງວາລະສານ"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "ປິດໃຊ້ງານ (ຄ່າເລີ່ມຕົ້ນ)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "ເປີດໃຊ້ງານ"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "ພື້ນຫຼັງຄຳອະທິບາຍວາລະສານ"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "ສີພື້ນຫຼັງສຳລັບພາກຄຳອະທິບາຍວາລະສານໃນໜ້າຫຼັກຂອງວາລະສານ"

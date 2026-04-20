@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: hi\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "जर्नल Swiss Medical Weekly द्वारा विकसित, Immersion पर आधारित एक OJS थीम।"
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "रंग चयनकर्ता"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "पत्रिका के फ्रंट-एंड पर प्रदर्शित होने वाले अनुभाग के लिए एक रंग चुनें। मान्य HTML हेक्स कोड होना चाहिए (जैसे, पीले के लिए #ffff00)।"
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "अनुभाग कवर छवि"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "पत्रिका के होम पेज पर घोषणा अनुभाग का रंग"
+
+msgid "editor.issues.sectionArea"
+msgstr "अंक के अनुभागों के विकल्प"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "प्रकाशित"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "अंक विवरण"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "सहमति"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "मुख्य मेनू"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "भाषा बदलें। वर्तमान भाषा:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "प्रशासन मेनू"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "पत्रिका के बारे में"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "पूरा अंक देखें"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "पैरामीटर"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "बायो"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "कवर छवि"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "लेखक के अनुसार ब्राउज़ करें"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "लेखक विवरण"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "अनुभाग विवरण दिखाएं"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "यदि सक्रिय है, तो अनुभाग विवरण पत्रिका के होम पेज पर संबंधित अनुभाग के नीचे दिखाया जाएगा"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "अक्षम करें"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "सक्षम करें; Browse By Section प्लगइन को सक्रिय करना आवश्यक है"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "पत्रिका विवरण दिखाएं"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "यदि सक्षम किया गया है, तो पत्रिका विवरण पत्रिका के लैंडिंग पेज पर दिखाया जाएगा"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "अक्षम करें (डिफ़ॉल्ट)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "सक्षम करें"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "पत्रिका विवरण पृष्ठभूमि"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "पत्रिका के होम पेज पर पत्रिका विवरण अनुभाग की पृष्ठभूमि का रंग"

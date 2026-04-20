@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ro\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "O temă OJS dezvoltată de revista Swiss Medical Weekly, bazată pe Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Selector culoare"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Alegeți o culoare pentru o secțiune afișată în partea frontală a revistei. Trebuie să fie un cod HTML hex valid (ex.: #ffff00 pentru galben)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Imagine de copertă a secțiunii"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Culoarea secțiunii Anunțuri pe pagina de start a revistei"
+
+msgid "editor.issues.sectionArea"
+msgstr "Opțiuni pentru secțiunile numărului"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Publicat"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Descrierea numărului"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Consimțământ"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Meniu principal"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Schimbă limba. Limba curentă este:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Meniu administrare"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Despre revistă"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Vedeți numărul complet"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametri"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Imagine de copertă"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Răsfoiește după autor"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Detalii autor"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Afișează descrierea secțiunii"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Dacă este activat, descrierea secțiunii va fi afișată sub secțiunea corespunzătoare pe pagina principală a revistei"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Dezactivează"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Activează; necesită plugin-ul Browse By Section activat"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Afișează descrierea revistei"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Dacă este activat, descrierea revistei va fi afișată pe pagina de destinație a revistei"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Dezactivează (implicit)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Activează"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Fundal descriere revistă"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Culoarea de fundal pentru secțiunea de descriere a revistei pe pagina principală"

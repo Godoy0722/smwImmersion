@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: lv\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS tēma, ko izstrādājis žurnāls Swiss Medical Weekly, balstīta uz Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Krāsu izvēlētājs"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Izvēlieties krāsu sadaļai, kas tiks parādīta žurnāla priekšpusē. Jābūt derīgam HTML hex kodam (piem., #ffff00 dzeltenai)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Sadaļas vāka attēls"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Paziņojumu sadaļas krāsa žurnāla sākumlapā"
+
+msgid "editor.issues.sectionArea"
+msgstr "Numura sadaļu opcijas"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Publicēts"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Numura apraksts"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Piekrišana"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Galvenā izvēlne"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Mainīt valodu. Pašreizējā valoda:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Administratora izvēlne"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Par žurnālu"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Skatīt visu numuru"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametri"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Vāka attēls"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Pārlūkot pēc autora"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Autora informācija"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Rādīt sadaļas aprakstu"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Ja aktivizēts, sadaļas apraksts tiks parādīts zem attiecīgās sadaļas žurnāla sākumlapā"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Atspējot"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Iespējot; nepieciešams aktīvs Browse By Section spraudnis"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Rādīt žurnāla aprakstu"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Ja iespējots, žurnāla apraksts tiks parādīts žurnāla galvenajā lapā"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Atspējot (noklusējums)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Iespējot"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Žurnāla apraksta fons"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Žurnāla apraksta sadaļas fona krāsa žurnāla sākumlapā"

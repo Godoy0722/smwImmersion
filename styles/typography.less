@@ -1,0 +1,86 @@
+/**
+ * @file styles/typography.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Typography and text styles
+ *
+ */
+
+body {
+    color: @text-color;
+    font-size: 18px;
+    text-rendering: optimizeLegibility;
+    font-weight: 400;
+}
+
+#username {
+    color: @text-color !important;
+}
+
+#password {
+    color: @text-color !important;
+}
+
+body, p, li, blockquote, cite, dd, dl, dt {
+  font-family: @font-family-base;
+}
+
+h1, h2, h3, h4, h5, h6, legend {
+  font-family: @font-family-base;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+  margin: 3.5rem 0 1.5rem 0 !important;
+}
+
+h3.label {
+  margin: 2rem 0 1.5rem 0 !important;
+}
+
+a {
+  color: @navy-green;
+  text-decoration-line: underline !important;
+
+  &::after {
+    border-bottom: none !important;
+  }
+
+  &:hover {
+    color: @text-color !important;
+  }
+}
+
+h2 > a::after {
+  border-bottom: none;
+}
+
+h4 > a {
+  text-decoration: none !important;
+}
+
+.references {
+  font-size: @font-size-base;
+}
+
+.pictureCopyright {
+  font-size: @font-size-small;
+  color: darkgrey;
+}
+
+h1.main__title {
+  font-size: 2rem !important;
+}
+
+#articlesBySameAuthorList {
+  font-size: @font-size-base;
+}
+
+.article-page a {
+    color: #04692a;
+
+    &:hover {
+        color: #04692a !important;
+    }
+}

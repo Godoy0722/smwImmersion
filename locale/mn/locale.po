@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: mn\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly сэтгүүлийн хөгжүүлсэн, Immersion-д суурилсан OJS загвар."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Өнгө сонгогч"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Сэтгүүлийн нүүр хуудсанд харуулах хэсгийн өнгийг сонгоно уу. Хүчинтэй HTML hex код байх ёстой (жишээ нь шарын хувьд #ffff00)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Хэсгийн нүүр зураг"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Сэтгүүлийн нүүр хуудсан дээрх Зарлал хэсгийн өнгө"
+
+msgid "editor.issues.sectionArea"
+msgstr "Дугаарын хэсгүүдийн сонголт"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Нийтлэгдсэн"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Дугаарын тодорхойлолт"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Зөвшөөрөл"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Үндсэн цэс"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Хэл солих. Одоогийн хэл:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Админ цэс"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Сэтгүүлийн тухай"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Бүтэн дугаарыг харах"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Параметрүүд"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Намтар"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Нүүр зураг"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Зохиогчоор үзэх"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Зохиогчийн дэлгэрэнгүй"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Хэсгийн тодорхойлолт харуулах"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Идэвхжүүлсэн тохиолдолд, хэсгийн тодорхойлолт сэтгүүлийн нүүр хуудсан дээрх холбогдох хэсгийн доор харагдана"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Идэвхгүй болгох"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Идэвхжүүлэх; Browse By Section нэмэлт идэвхжсэн байх шаардлагатай"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Сэтгүүлийн тодорхойлолт харуулах"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Идэвхжүүлсэн тохиолдолд, сэтгүүлийн тодорхойлолт сэтгүүлийн үндсэн хуудсан дээр харагдана"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Идэвхгүй болгох (үндсэн)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Идэвхжүүлэх"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Сэтгүүлийн тодорхойлолтын дэвсгэр"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Сэтгүүлийн нүүр хуудсан дээрх сэтгүүлийн тодорхойлолт хэсгийн дэвсгэр өнгө"

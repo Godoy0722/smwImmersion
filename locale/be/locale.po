@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: be\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Тэма OJS, распрацаваная часопісам Swiss Medical Weekly, на аснове Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Выбар колеру"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Абярыце колер для раздзела, які адлюстроўваецца на галоўнай старонцы часопіса. Павінен быць сапраўдным HTML hex-кодам (напрыклад, #ffff00 для жоўтага)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Выява вокладкі раздзела"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Колер раздзела Аб'явы на галоўнай старонцы часопіса"
+
+msgid "editor.issues.sectionArea"
+msgstr "Параметры для раздзелаў нумара"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Апублікавана"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Апісанне нумара"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Згода"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Галоўнае меню"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Змяніць мову. Бягучая мова:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Меню адміністратара"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Пра часопіс"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Глядзець поўны нумар"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Параметры"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Біяграфія"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Выява вокладкі"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Прагляд па аўтары"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Падрабязнасці аўтара"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Паказваць апісанне раздзела"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Калі актывавана, апісанне раздзела будзе паказана пад адпаведным раздзелам на галоўнай старонцы часопіса"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Адключыць"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Уключыць; патрабуе актываванага плагіна Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Паказваць апісанне часопіса"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Калі ўключана, апісанне часопіса будзе паказана на пасадкавай старонцы часопіса"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Адключыць (па змаўчанні)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Уключыць"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Фон апісання часопіса"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Колер фону раздзела з апісаннем часопіса на галоўнай старонцы"

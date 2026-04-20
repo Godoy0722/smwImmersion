@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: hu\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "A Swiss Medical Weekly folyóirat által fejlesztett OJS téma, az Immersion alapján."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Színválasztó"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Válasszon színt egy szakaszhoz, amely a folyóirat kezdőlapján jelenik meg. Érvényes HTML hexadecimális kódnak kell lennie (pl. #ffff00 a sárgához)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Szakasz borítóképe"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "A folyóirat kezdőlapján lévő Közlemények szakasz színe"
+
+msgid "editor.issues.sectionArea"
+msgstr "Lapszám szakaszainak beállításai"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Megjelent"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Lapszám leírása"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Hozzájárulás"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Főmenü"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Nyelv váltása. Az aktuális nyelv:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Adminisztrációs menü"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "A folyóiratról"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Teljes lapszám megtekintése"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Paraméterek"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Életrajz"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Borítókép"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Böngészés szerző szerint"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Szerző részletei"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Szakasz leírásának megjelenítése"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Ha aktiválva van, a szakasz leírása a megfelelő szakasz alatt jelenik meg a folyóirat kezdőlapján"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Letiltás"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Engedélyezés; aktív Browse By Section beépülőt igényel"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Folyóirat leírásának megjelenítése"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Ha engedélyezve van, a folyóirat leírása a folyóirat nyitóoldalán jelenik meg"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Letiltás (alapértelmezett)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Engedélyezés"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Folyóiratleírás háttere"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "A folyóirat leírási szakaszának háttérszíne a kezdőlapon"

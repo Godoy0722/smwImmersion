@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: und\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "An OJS theme developed by the journal Swiss Medical Weekly, based on Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Color Picker"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Pick a color for a section to display on the journal's front-end. Must be valid HTML hex code (e.g., #ffff00 for yellow)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Section Cover Image"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Announcements section colour on the journal's home page"
+
+msgid "editor.issues.sectionArea"
+msgstr "Options for issue's sections"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Published"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Issue description"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Consent"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Main menu"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Change the language. The current language is:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Admin menu"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "About the journal"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "See the full issue"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parameters"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Cover image"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Browse by Author"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Author Details"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Show section description"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "If activated, the section description will be shown under the appropriate section on the journal homepage"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Disable"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Enable; requires Browse By Section plugin to be activated"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Show journal description"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "If enabled, the journal description will be shown on the journal's landing page"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Disable (default)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Enable"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Journal description background"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Background colour for the journal description section on the journal home page"

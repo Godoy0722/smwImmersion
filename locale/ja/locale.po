@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ja\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly 誌が開発した OJS テーマ。Immersion をベースにしています。"
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "カラーピッカー"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "ジャーナルのフロントエンドで表示するセクションの色を選択してください。有効な HTML 16 進コードである必要があります（例: 黄色は #ffff00）。"
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "セクション表紙画像"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "ジャーナルのホームページにおけるお知らせセクションの色"
+
+msgid "editor.issues.sectionArea"
+msgstr "号のセクションに関するオプション"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "公開済み"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "号の説明"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "同意"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "メインメニュー"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "言語を変更します。現在の言語："
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "管理メニュー"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "ジャーナルについて"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "号全体を見る"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "パラメータ"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "プロフィール"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "表紙画像"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "著者で探す"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "著者詳細"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "セクション説明を表示"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "有効にすると、ジャーナルのホームページの該当セクションの下にセクション説明が表示されます"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "無効"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "有効（Browse By Section プラグインの有効化が必要です）"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "ジャーナル説明を表示"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "有効にすると、ジャーナルのランディングページにジャーナル説明が表示されます"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "無効（既定）"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "有効"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "ジャーナル説明の背景"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "ジャーナルのホームページにおけるジャーナル説明セクションの背景色"

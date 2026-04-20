@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: is\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS þema þróað af tímaritinu Swiss Medical Weekly, byggt á Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Litaval"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Veldu lit fyrir kafla sem birtist á framhlið tímaritsins. Verður að vera gildur HTML hex-kóði (t.d. #ffff00 fyrir gulan)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Kaflakápumynd"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Litur Tilkynninga-hluta á forsíðu tímaritsins"
+
+msgid "editor.issues.sectionArea"
+msgstr "Valkostir fyrir kafla heftis"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Birt"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Lýsing heftis"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Samþykki"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Aðalvalmynd"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Skipta um tungumál. Núverandi tungumál:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Stjórnandavalmynd"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Um tímaritið"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Sjá allt heftið"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Færibreytur"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Kápumynd"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Fletta eftir höfundi"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Upplýsingar um höfund"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Sýna kaflalýsingu"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Ef virkjað birtist kaflalýsingin undir viðeigandi kafla á forsíðu tímaritsins"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Gera óvirkt"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Virkja; krefst þess að Browse By Section viðbótin sé virk"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Sýna lýsingu tímaritsins"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Ef virkjað birtist lýsing tímaritsins á lendingarsíðu þess"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Gera óvirkt (sjálfgefið)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Virkja"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Bakgrunnur tímaritslýsingar"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Bakgrunnslitur fyrir tímaritslýsingarhluta á forsíðu tímaritsins"

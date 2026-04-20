@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: th\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "ธีม OJS ที่พัฒนาโดยวารสาร Swiss Medical Weekly อิงจาก Immersion"
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "ตัวเลือกสี"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "เลือกสีสำหรับส่วนที่จะแสดงบนหน้าเว็บของวารสาร ต้องเป็นรหัส HTML hex ที่ถูกต้อง (เช่น #ffff00 สำหรับสีเหลือง)"
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "ภาพปกส่วน"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "สีของส่วนประกาศบนหน้าแรกของวารสาร"
+
+msgid "editor.issues.sectionArea"
+msgstr "ตัวเลือกสำหรับส่วนของฉบับ"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "เผยแพร่แล้ว"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "คำอธิบายฉบับ"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "ยินยอม"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "เมนูหลัก"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "เปลี่ยนภาษา ภาษาปัจจุบัน:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "เมนูผู้ดูแลระบบ"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "เกี่ยวกับวารสาร"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "ดูฉบับเต็ม"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "พารามิเตอร์"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "ประวัติ"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "ภาพปก"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "เรียกดูตามผู้แต่ง"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "รายละเอียดผู้แต่ง"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "แสดงคำอธิบายส่วน"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "หากเปิดใช้งาน คำอธิบายส่วนจะแสดงด้านล่างส่วนที่เกี่ยวข้องบนหน้าแรกของวารสาร"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "ปิดใช้งาน"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "เปิดใช้งาน; ต้องเปิดใช้งานปลั๊กอิน Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "แสดงคำอธิบายวารสาร"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "หากเปิดใช้งาน คำอธิบายวารสารจะแสดงบนหน้าแรกของวารสาร"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "ปิดใช้งาน (ค่าเริ่มต้น)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "เปิดใช้งาน"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "พื้นหลังคำอธิบายวารสาร"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "สีพื้นหลังสำหรับส่วนคำอธิบายวารสารบนหน้าแรกของวารสาร"

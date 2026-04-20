@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: sr_Latn\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS tema koju je razvio časopis Swiss Medical Weekly, zasnovana na Immersionu."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Odabir boje"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Izaberite boju za rubriku koja će biti prikazana na naslovnoj strani časopisa. Mora biti validan HTML hex kod (npr. #ffff00 za žutu)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Slika naslovne strane rubrike"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Boja rubrike Obaveštenja na naslovnoj strani časopisa"
+
+msgid "editor.issues.sectionArea"
+msgstr "Opcije za rubrike broja"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Objavljeno"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Opis broja"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Saglasnost"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Glavni meni"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Promenite jezik. Trenutni jezik:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Administratorski meni"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "O časopisu"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Pogledajte ceo broj"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametri"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Naslovna slika"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Pretraga po autoru"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Detalji o autoru"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Prikaži opis rubrike"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Ako je aktivirano, opis rubrike biće prikazan ispod odgovarajuće rubrike na naslovnoj strani časopisa"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Onemogući"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Omogući; zahteva aktiviran dodatak Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Prikaži opis časopisa"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Ako je omogućeno, opis časopisa biće prikazan na odredišnoj strani časopisa"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Onemogući (podrazumevano)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Omogući"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Pozadina opisa časopisa"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Boja pozadine za rubriku s opisom časopisa na naslovnoj strani časopisa"

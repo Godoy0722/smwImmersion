@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: he\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "ערכת עיצוב ל-OJS שפותחה על ידי כתב העת Swiss Medical Weekly, מבוססת על Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "בוחר צבע"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "בחרו צבע למדור שיוצג בחזית כתב העת. חייב להיות קוד HTML הקסדצימלי תקף (לדוגמה, #ffff00 לצהוב)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "תמונת שער המדור"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "צבע מדור ההודעות בעמוד הבית של כתב העת"
+
+msgid "editor.issues.sectionArea"
+msgstr "אפשרויות למדורי הגיליון"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "פורסם"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "תיאור הגיליון"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "הסכמה"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "תפריט ראשי"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "שינוי שפה. השפה הנוכחית:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "תפריט מנהל"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "אודות כתב העת"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "צפייה בגיליון המלא"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "פרמטרים"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "קורות חיים"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "תמונת שער"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "עיון לפי מחבר"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "פרטי המחבר"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "הצג תיאור מדור"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "אם מופעל, תיאור המדור יוצג מתחת למדור המתאים בעמוד הבית של כתב העת"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "השבת"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "הפעל; דורש שהתוסף Browse By Section יהיה מופעל"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "הצג תיאור כתב עת"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "אם מופעל, תיאור כתב העת יוצג בעמוד הנחיתה של כתב העת"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "השבת (ברירת מחדל)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "הפעל"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "רקע תיאור כתב העת"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "צבע רקע למדור תיאור כתב העת בעמוד הבית של כתב העת"

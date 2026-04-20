@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ur\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "جرنل Swiss Medical Weekly کا تیار کردہ OJS تھیم، جو Immersion پر مبنی ہے۔"
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "رنگ منتخب کنندہ"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "جرنل کے فرنٹ اینڈ پر ظاہر ہونے والے سیکشن کے لیے رنگ منتخب کریں۔ درست HTML ہیکس کوڈ ہونا چاہیے (مثلاً پیلے کے لیے #ffff00)۔"
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "سیکشن کور امیج"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "جرنل کے ہوم پیج پر اعلانات سیکشن کا رنگ"
+
+msgid "editor.issues.sectionArea"
+msgstr "شمارے کے سیکشنز کے لیے اختیارات"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "شائع شدہ"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "شمارے کی تفصیل"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "رضامندی"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "مرکزی مینو"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "زبان تبدیل کریں۔ موجودہ زبان:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "ایڈمن مینو"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "جرنل کے بارے میں"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "مکمل شمارہ دیکھیں"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "پیرامیٹرز"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "سوانح"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "کور امیج"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "مصنف کے لحاظ سے تلاش کریں"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "مصنف کی تفصیلات"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "سیکشن کی تفصیل دکھائیں"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "اگر فعال کیا گیا ہو، تو سیکشن کی تفصیل جرنل کے ہوم پیج پر متعلقہ سیکشن کے نیچے دکھائی دے گی"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "غیر فعال کریں"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "فعال کریں؛ Browse By Section پلگ ان کا فعال ہونا ضروری ہے"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "جرنل کی تفصیل دکھائیں"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "اگر فعال کیا جائے، تو جرنل کی تفصیل جرنل کے لینڈنگ پیج پر دکھائی دے گی"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "غیر فعال کریں (پیش فرض)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "فعال کریں"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "جرنل کی تفصیل کا پس منظر"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "جرنل کے ہوم پیج پر جرنل کی تفصیل کے سیکشن کا پس منظر کا رنگ"

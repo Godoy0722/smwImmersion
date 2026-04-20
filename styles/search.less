@@ -1,0 +1,65 @@
+/**
+ * @file styles/search.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Search page and form styles
+ *
+ */
+
+.form-group {
+    margin-bottom: 3rem;
+}
+
+.form-control {
+    background: transparent !important;
+    border: 0 !important;
+    border-bottom: 1px solid #fff !important;
+    border-radius: 0 !important;
+    color: #fff;
+
+    &:focus {
+        color: #fff;
+    }
+}
+
+.form-control:focus {
+    border-color:#fff;
+    box-shadow:0 0 0 .1rem #fff
+}
+
+.form-control-date {
+    position: relative;
+}
+
+.search {
+    &__control {
+        background-color: transparent !important;
+        border: 0 !important;
+        border-bottom: 1px solid #fff !important;
+        border-radius: 0 !important;
+        color: #fff;
+    }
+
+    &__select {
+        margin: 0 5px !important;
+    }
+}
+
+select.search__select {
+    appearance: none !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3E%3Cpath fill='%23ffffff' d='M0 2l4 4 4-4z'/%3E%3C/svg%3E") !important;
+    background-repeat: no-repeat !important;
+    background-position: right 0 center !important;
+    background-size: 8px !important;
+    padding-right: 24px !important;
+}
+
+.form-group-date-from .select__wrapper::after,
+.form-group-date-to .select__wrapper::after {
+	display: none!important;
+}

@@ -1,0 +1,40 @@
+/**
+ * @file styles/components.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Reusable components styles
+ *
+ */
+
+.cmp_form.register,
+.cmp_form.login {
+
+    .form-control {
+        border-bottom: 1px solid @text-color !important;
+
+        &:focus {
+            border-color: @white !important;
+            box-shadow: 0 0 0 .1rem @white !important;
+            caret-color: @text-color !important;
+        }
+    }
+
+    select.form-control {
+        appearance: none;
+        background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23000'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e") !important;
+        background-repeat: no-repeat !important;
+        background-position: right 0.5rem center !important;
+        background-size: 1em !important;
+
+        option {
+            color: @text-color;
+        }
+    }
+
+    a.login {
+        margin-top: 50px;
+    }
+}

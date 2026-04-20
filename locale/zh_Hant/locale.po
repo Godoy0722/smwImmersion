@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: zh_Hant\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "由期刊《瑞士醫學週刊》（Swiss Medical Weekly）開發的 OJS 佈景主題，以 Immersion 為基礎。"
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "顏色選擇器"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "為欲在期刊前端顯示的專欄挑選顏色。必須為有效的 HTML 十六進位代碼（例如黃色為 #ffff00）。"
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "專欄封面圖片"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "期刊首頁上公告專欄的顏色"
+
+msgid "editor.issues.sectionArea"
+msgstr "各期專欄選項"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "已發布"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "期號說明"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "同意"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "主選單"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "變更語言。目前語言為："
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "管理選單"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "關於本刊"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "檢視完整期號"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "參數"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "簡介"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "封面圖片"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "依作者瀏覽"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "作者詳細資料"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "顯示專欄說明"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "啟用後，將在期刊首頁對應專欄下方顯示專欄說明"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "停用"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "啟用；需啟用 Browse By Section 外掛"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "顯示期刊說明"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "啟用後，期刊首頁將顯示期刊說明"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "停用（預設）"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "啟用"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "期刊說明背景"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "期刊首頁期刊說明區塊的背景色"

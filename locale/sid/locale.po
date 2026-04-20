@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: sid\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly magazineti kalaqantino OJS amme, Immersion aana kasinoho."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Nooha doorsha"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Magazinete albaho leellishate bikkate nooha dooraati. Addi HTML hex code ikkanno hasiissanno (lawishshaho #ffff00 xinxippete)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Bikkate umi misile"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Magazinete wozihu balshishshu bikkate nooma"
+
+msgid "editor.issues.sectionArea"
+msgstr "Qoola bikkubbate doorannote"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Fushshinoonni"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Qoola xawishsha"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Xoshooshi"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Sumuuda"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Afoo soorri. Xaa afoo:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Adminu sumuuda"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Magazinete daafira"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Woyyitto qoola laba"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parameterra"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Umi misile"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Boraancho ledo hasi"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Boraancho xintoota"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Bikkate xawishsha leellishi"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Kaajjishamme no ikkiro, bikkate xawishsha magazinete wozihu bikkate kaalo leellanno"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Hoogi"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Kaajjishi; Browse By Section plaginu kaajjammisi hasiissanno"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Magazinete xawishsha leellishi"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Kaajjamme no ikkiro, magazinete xawishsha magazinete umme qoola leellanno"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Hoogi (deefaalte)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Kaajjishi"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Magazinete xawishsha baxxannonni"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Magazinete wozihu magazinete xawishsha bikkate baxxannonni nooma"

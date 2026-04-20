@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: uz_Latn\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly jurnali tomonidan ishlab chiqilgan, Immersion asosidagi OJS mavzusi."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Rang tanlash"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Jurnalning oldingi qismida ko'rsatiladigan bo'lim uchun rang tanlang. Haqiqiy HTML hex kodi bo'lishi kerak (masalan, sariq uchun #ffff00)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Bo'lim muqova rasmi"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Jurnalning bosh sahifasidagi E'lonlar bo'limining rangi"
+
+msgid "editor.issues.sectionArea"
+msgstr "Sonning bo'limlari uchun variantlar"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Nashr etilgan"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Son tavsifi"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Rozilik"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Asosiy menyu"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Tilni o'zgartirish. Joriy til:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Admin menyu"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Jurnal haqida"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "To'liq sonni ko'rish"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametrlar"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Muqova rasmi"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Muallifga ko'ra ko'rib chiqish"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Muallif tafsilotlari"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Bo'lim tavsifini ko'rsatish"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Faollashtirilgan bo'lsa, bo'lim tavsifi jurnalning bosh sahifasidagi tegishli bo'lim ostida ko'rsatiladi"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "O'chirish"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Yoqish; Browse By Section plaginini faollashtirish kerak"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Jurnal tavsifini ko'rsatish"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Yoqilgan bo'lsa, jurnal tavsifi jurnalning asosiy sahifasida ko'rsatiladi"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "O'chirish (standart)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Yoqish"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Jurnal tavsifi foni"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Jurnalning bosh sahifasidagi jurnal tavsifi bo'limining fon rangi"

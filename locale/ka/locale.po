@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ka\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS თემა, რომელიც შემუშავდა ჟურნალ Swiss Medical Weekly-ის მიერ, დაფუძნებული Immersion-ზე."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "ფერის ამრჩევი"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "აირჩიეთ ფერი სექციისთვის, რომელიც გამოჩნდება ჟურნალის მთავარ გვერდზე. უნდა იყოს ვალიდური HTML hex კოდი (მაგ., #ffff00 ყვითლისთვის)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "სექციის გარეკანის სურათი"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "განცხადებების სექციის ფერი ჟურნალის მთავარ გვერდზე"
+
+msgid "editor.issues.sectionArea"
+msgstr "გამოშვების სექციების პარამეტრები"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "გამოქვეყნებული"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "გამოშვების აღწერა"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "თანხმობა"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "მთავარი მენიუ"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "ენის შეცვლა. მიმდინარე ენა:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "ადმინისტრატორის მენიუ"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "ჟურნალის შესახებ"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "ნახეთ სრული გამოშვება"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "პარამეტრები"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "ბიო"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "გარეკანის სურათი"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "ავტორის მიხედვით ძიება"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "ავტორის დეტალები"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "აჩვენე სექციის აღწერა"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "თუ ჩართულია, სექციის აღწერა გამოჩნდება შესაბამისი სექციის ქვეშ ჟურნალის მთავარ გვერდზე"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "გამორთე"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "ჩართე; საჭიროებს გააქტიურებულ Browse By Section დანამატს"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "აჩვენე ჟურნალის აღწერა"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "თუ ჩართულია, ჟურნალის აღწერა გამოჩნდება ჟურნალის მთავარ გვერდზე"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "გამორთე (ნაგულისხმევი)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "ჩართე"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "ჟურნალის აღწერის ფონი"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "ჟურნალის მთავარ გვერდზე ჟურნალის აღწერის სექციის ფონის ფერი"

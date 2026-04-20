@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: vi\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Giao diện OJS do tạp chí Swiss Medical Weekly phát triển, dựa trên Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Bộ chọn màu"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Chọn một màu cho chuyên mục hiển thị ở mặt trước của tạp chí. Phải là mã HTML hex hợp lệ (ví dụ: #ffff00 cho màu vàng)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Ảnh bìa chuyên mục"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Màu của chuyên mục Thông báo trên trang chủ tạp chí"
+
+msgid "editor.issues.sectionArea"
+msgstr "Tùy chọn cho các chuyên mục của số"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Đã xuất bản"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Mô tả số tạp chí"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Đồng ý"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Menu chính"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Đổi ngôn ngữ. Ngôn ngữ hiện tại:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Menu quản trị"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Giới thiệu tạp chí"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Xem toàn bộ số"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Tham số"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Tiểu sử"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Ảnh bìa"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Duyệt theo tác giả"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Chi tiết tác giả"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Hiển thị mô tả chuyên mục"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Nếu được kích hoạt, mô tả chuyên mục sẽ hiển thị dưới chuyên mục tương ứng trên trang chủ tạp chí"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Vô hiệu hóa"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Kích hoạt; yêu cầu plugin Browse By Section được kích hoạt"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Hiển thị mô tả tạp chí"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Nếu được bật, mô tả tạp chí sẽ hiển thị trên trang chủ tạp chí"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Vô hiệu hóa (mặc định)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Kích hoạt"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Nền mô tả tạp chí"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Màu nền của phần mô tả tạp chí trên trang chủ tạp chí"

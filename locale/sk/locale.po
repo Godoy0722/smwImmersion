@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: sk\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Téma OJS vyvinutá časopisom Swiss Medical Weekly, založená na téme Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Výber farby"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Vyberte farbu pre sekciu, ktorá sa má zobraziť na titulnej stránke časopisu. Musí to byť platný HTML hex kód (napr. #ffff00 pre žltú)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Titulný obrázok sekcie"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Farba sekcie Oznámenia na domovskej stránke časopisu"
+
+msgid "editor.issues.sectionArea"
+msgstr "Možnosti sekcií čísla"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Zverejnené"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Popis čísla"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Súhlas"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Hlavné menu"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Zmeniť jazyk. Aktuálny jazyk:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Menu administrátora"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "O časopise"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Zobraziť celé číslo"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametre"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Titulný obrázok"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Prehľadávať podľa autora"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Podrobnosti o autorovi"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Zobraziť popis sekcie"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Ak je aktivované, popis sekcie sa zobrazí pod príslušnou sekciou na domovskej stránke časopisu"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Zakázať"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Povoliť; vyžaduje aktivovaný plugin Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Zobraziť popis časopisu"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Ak je povolené, popis časopisu sa zobrazí na vstupnej stránke časopisu"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Zakázať (predvolené)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Povoliť"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Pozadie popisu časopisu"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Farba pozadia sekcie popisu časopisu na domovskej stránke časopisu"

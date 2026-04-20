@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: se\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS-fáddá maid áigečála Swiss Medical Weekly lea ráhkadan, vuođđuduvvon Immersion-fáddái."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Ivdneválljejeaddji"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Vállje ivnni oasi várás mii čájehuvvo áigečála ovdaskuálus. Ferte leat gustojeaddji HTML hex-koda (omd. #ffff00 fiskes várás)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Oasi olgoprintagovva"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Dieđáhusaid-oasi ivdni áigečála ruovttusiiddus"
+
+msgid "editor.issues.sectionArea"
+msgstr "Vejolašvuođat áigečállaga osiide"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Almmuhuvvon"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Áigečállaga válddahus"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Miehtan"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Váldofállu"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Molsso giela. Dálá giella:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Hálddašeaddji fállu"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Áigečála birra"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Geahča olles áigečállaga"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parameterat"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Olgoprintagovva"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Bláđe čálli mielde"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Čálli dieđut"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Čájet oasi válddahusa"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Jos lea aktiverejuvvon, de oasi válddahus čájehuvvo vuosttaš oasi vuolde áigečála ruovttusiiddus"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Deaktivere"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Aktivere; gáibida aktiverejuvvon Browse By Section lassemodula"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Čájet áigečála válddahusa"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Jos lea aktiverejuvvon, de áigečála válddahus čájehuvvo áigečála vuosttaš siiddus"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Deaktivere (standárda)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Aktivere"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Áigečála válddahusa duogáš"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Áigečála válddahus-oasi duogášivdni áigečála ruovttusiiddus"

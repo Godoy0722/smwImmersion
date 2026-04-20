@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: pl\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Motyw OJS opracowany przez czasopismo Swiss Medical Weekly, oparty na Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Wybór koloru"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Wybierz kolor dla sekcji wyświetlanej na stronie głównej czasopisma. Musi być prawidłowym kodem HTML hex (np. #ffff00 dla żółtego)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Obraz okładki sekcji"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Kolor sekcji Ogłoszenia na stronie głównej czasopisma"
+
+msgid "editor.issues.sectionArea"
+msgstr "Opcje sekcji numeru"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Opublikowano"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Opis numeru"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Zgoda"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Menu główne"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Zmień język. Bieżący język:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Menu administratora"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "O czasopiśmie"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Zobacz pełny numer"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametry"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Obraz okładki"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Przeglądaj według autora"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Szczegóły autora"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Pokaż opis sekcji"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Jeśli aktywowane, opis sekcji będzie wyświetlany pod odpowiednią sekcją na stronie głównej czasopisma"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Wyłącz"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Włącz; wymaga aktywacji wtyczki Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Pokaż opis czasopisma"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Jeśli włączone, opis czasopisma będzie wyświetlany na stronie docelowej czasopisma"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Wyłącz (domyślnie)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Włącz"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Tło opisu czasopisma"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Kolor tła sekcji opisu czasopisma na stronie głównej czasopisma"

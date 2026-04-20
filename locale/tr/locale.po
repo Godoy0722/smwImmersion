@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: tr\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly dergisi tarafından geliştirilen, Immersion temeline dayalı bir OJS temasıdır."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Renk Seçici"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Derginin önyüzünde görüntülenecek bir bölüm için renk seçin. Geçerli bir HTML hex kodu olmalıdır (ör. sarı için #ffff00)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Bölüm Kapak Görseli"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Derginin ana sayfasındaki Duyurular bölümünün rengi"
+
+msgid "editor.issues.sectionArea"
+msgstr "Sayı bölümleri için seçenekler"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Yayımlandı"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Sayı açıklaması"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Onay"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Ana menü"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Dili değiştir. Geçerli dil:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Yönetim menüsü"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Dergi hakkında"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Sayının tamamını gör"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametreler"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Biyografi"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Kapak görseli"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Yazara göre göz at"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Yazar Ayrıntıları"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Bölüm açıklamasını göster"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Etkinleştirildiğinde, bölüm açıklaması derginin ana sayfasındaki ilgili bölümün altında gösterilir"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Devre dışı bırak"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Etkinleştir; Browse By Section eklentisinin etkin olmasını gerektirir"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Dergi açıklamasını göster"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Etkinleştirildiğinde, dergi açıklaması derginin açılış sayfasında gösterilir"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Devre dışı bırak (varsayılan)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Etkinleştir"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Dergi açıklaması arka planı"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Derginin ana sayfasındaki dergi açıklaması bölümünün arka plan rengi"

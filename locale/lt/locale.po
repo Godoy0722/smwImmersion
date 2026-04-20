@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: lt\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "OJS tema, sukurta žurnalo Swiss Medical Weekly, pagrįsta Immersion tema."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Spalvos pasirinkimas"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Pasirinkite skyriaus spalvą, kuri bus rodoma žurnalo pradiniame puslapyje. Turi būti galiojantis HTML hex kodas (pvz., #ffff00 geltonai)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Skyriaus viršelio paveikslėlis"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Skelbimų skyriaus spalva žurnalo pradiniame puslapyje"
+
+msgid "editor.issues.sectionArea"
+msgstr "Numerio skyrių parinktys"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Paskelbta"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Numerio aprašymas"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Sutikimas"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Pagrindinis meniu"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Pakeisti kalbą. Dabartinė kalba:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Administratoriaus meniu"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Apie žurnalą"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Peržiūrėti visą numerį"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Parametrai"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Biografija"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Viršelio paveikslėlis"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Naršyti pagal autorių"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Autoriaus informacija"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Rodyti skyriaus aprašymą"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Jei aktyvuota, skyriaus aprašymas bus rodomas po atitinkamu skyriumi žurnalo pradiniame puslapyje"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Išjungti"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Įjungti; reikalauja aktyvuoto Browse By Section įskiepio"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Rodyti žurnalo aprašymą"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Jei įjungta, žurnalo aprašymas bus rodomas žurnalo nukreipimo puslapyje"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Išjungti (numatyta)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Įjungti"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Žurnalo aprašymo fonas"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Žurnalo aprašymo skyriaus fono spalva žurnalo pradiniame puslapyje"

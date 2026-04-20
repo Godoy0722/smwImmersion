@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ar\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "قالب OJS طوّرته مجلة Swiss Medical Weekly، مبني على قالب Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "منتقي الألوان"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "اختر لوناً لقسم معين لعرضه على الواجهة الأمامية للمجلة. يجب أن يكون رمز HTML سداسي عشري صالح (مثال: #ffff00 للأصفر)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "صورة غلاف القسم"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "لون قسم الإعلانات في الصفحة الرئيسية للمجلة"
+
+msgid "editor.issues.sectionArea"
+msgstr "خيارات أقسام العدد"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "منشور"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "وصف العدد"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "الموافقة"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "القائمة الرئيسية"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "تغيير اللغة. اللغة الحالية:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "قائمة الإدارة"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "عن المجلة"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "عرض العدد كاملاً"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "المعايير"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "نبذة"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "صورة الغلاف"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "تصفّح حسب المؤلف"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "تفاصيل المؤلف"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "إظهار وصف القسم"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "عند التفعيل، يظهر وصف القسم أسفل القسم المناسب في الصفحة الرئيسية للمجلة"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "تعطيل"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "تفعيل؛ يتطلب تفعيل إضافة Browse By Section"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "إظهار وصف المجلة"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "عند التفعيل، يظهر وصف المجلة في صفحة الهبوط للمجلة"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "تعطيل (افتراضي)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "تفعيل"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "خلفية وصف المجلة"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "لون خلفية قسم وصف المجلة في الصفحة الرئيسية للمجلة"

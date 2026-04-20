@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: kab\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Asentel OJS yettwaxdem sɣur teɣmist Swiss Medical Weekly, yebnan ɣef Immersion."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "Afran n yini"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "Fren ini i wagbur ara d-yettwaskanen ɣef usebter agejdan n teɣmist. Ilaq ad yili d tangalt HTML hex taẓedgant (amedya: #ffff00 i wawrar)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "Tugna n tgeslit n wegbur"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "Ini n wegbur n Ulɣuyen ɣef usebter agejdan n teɣmist"
+
+msgid "editor.issues.sectionArea"
+msgstr "Tifranin i wegburen n uneggi"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "Yuffɣen"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "Aglam n uneggi"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "Asirem"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "Umuɣ agejdan"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "Beddel tutlayt. Tutlayt tamirant:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "Umuɣ n unedbal"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "Ɣef teɣmist"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "Wali aneggi mag"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "Iɣewwaren"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "Bio"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "Tugna n tgeslit"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "Snirem s umeskar"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "Iɣbula n umeskar"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "Sken aglam n wegbur"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "Ma yella irmed, aglam n wegbur ad d-yettwaskanen ddaw n wegbur yemmalen ɣef usebter agejdan n teɣmist"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "Sens"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "Rmed; yesra izegrer Browse By Section irmed"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "Sken aglam n teɣmist"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "Ma yella irmed, aglam n teɣmist ad d-yettwaskanen ɣef usebter n teɣmist"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "Sens (amezwer)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "Rmed"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "Agilal n uglam n teɣmist"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "Ini n ugilal i wegbur n uglam n teɣmist ɣef usebter agejdan"

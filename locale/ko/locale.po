@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-01T10:58:55+00:00\n"
+"PO-Revision-Date: 2026-04-01T10:58:55+00:00\n"
+"Language: ko\n"
+
+msgid "plugins.themes.smwimmersion.name"
+msgstr "SMW Theme"
+
+msgid "plugins.themes.smwimmersion.description"
+msgstr "Swiss Medical Weekly 학술지에서 개발한, Immersion 기반의 OJS 테마입니다."
+
+msgid "plugins.themes.smwimmersion.colorPick"
+msgstr "색상 선택기"
+
+msgid "plugins.themes.smwimmersion.colorPickInstructions"
+msgstr "학술지 프런트엔드에 표시할 섹션의 색상을 선택하세요. 유효한 HTML 16진수 코드여야 합니다(예: 노란색은 #ffff00)."
+
+msgid "plugins.themes.smwimmersion.section.coverPage"
+msgstr "섹션 표지 이미지"
+
+msgid "plugins.themes.smwimmersion.announcements.colorPick"
+msgstr "학술지 홈페이지의 공지 섹션 색상"
+
+msgid "editor.issues.sectionArea"
+msgstr "호의 섹션 옵션"
+
+msgid "plugins.themes.smwimmersion.issue.published"
+msgstr "발행됨"
+
+msgid "plugins.themes.smwimmersion.issue.description"
+msgstr "호 설명"
+
+msgid "plugins.themes.smwimmersion.registration.consent"
+msgstr "동의"
+
+msgid "plugins.themes.smwimmersion.mainMenu"
+msgstr "주 메뉴"
+
+msgid "plugins.themes.smwimmersion.language.toggle"
+msgstr "언어를 변경합니다. 현재 언어:"
+
+msgid "plugins.themes.smwimmersion.adminMenu"
+msgstr "관리 메뉴"
+
+msgid "plugins.themes.smwimmersion.about.journal"
+msgstr "학술지 소개"
+
+msgid "plugins.themes.smwimmersion.issue.fullIssueLink"
+msgstr "전체 호 보기"
+
+msgid "plugins.themes.smwimmersion.search.parameters"
+msgstr "매개변수"
+
+msgid "plugins.themes.smwimmersion.article.biography"
+msgstr "약력"
+
+msgid "plugins.themes.smwimmersion.article.figure"
+msgstr "표지 이미지"
+
+msgid "plugins.themes.smwimmersion.authors.browse"
+msgstr "저자별 보기"
+
+msgid "plugins.themes.smwimmersion.author.details"
+msgstr "저자 상세정보"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.label"
+msgstr "섹션 설명 표시"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.description"
+msgstr "활성화하면 학술지 홈페이지의 해당 섹션 아래에 섹션 설명이 표시됩니다"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.disable"
+msgstr "비활성화"
+
+msgid "plugins.themes.smwimmersion.options.sectionDescription.enable"
+msgstr "활성화; Browse By Section 플러그인이 활성화되어 있어야 합니다"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.label"
+msgstr "학술지 설명 표시"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.description"
+msgstr "활성화하면 학술지 랜딩 페이지에 학술지 설명이 표시됩니다"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.disable"
+msgstr "비활성화 (기본값)"
+
+msgid "plugins.themes.smwimmersion.options.journalDescription.enable"
+msgstr "활성화"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.label"
+msgstr "학술지 설명 배경"
+
+msgid "plugins.themes.smwimmersion.options.journalDescriptionColour.description"
+msgstr "학술지 홈페이지의 학술지 설명 섹션 배경색"

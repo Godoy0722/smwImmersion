@@ -15,17 +15,32 @@
 
 namespace APP\plugins\themes\smwImmersion;
 
-use PKP\plugins\ThemePlugin;
+use APP\core\Application;
+use APP\notification\NotificationManager;
+use PKP\notification\Notification;
 use PKP\plugins\Hook;
+use PKP\plugins\PluginRegistry;
+use PKP\plugins\ThemePlugin;
 
 class SmwImmersionChildThemePlugin extends ThemePlugin {
+
+    /** Plugin registry key of the required parent theme. */
+    private const PARENT_THEME_KEY = 'immersionthemeplugin';
 
     /**
      * @copydoc \PKP\plugins\ThemePlugin::init()
      */
     public function init()
     {
-        $this->setParent('immersionthemeplugin');
+        // SMW Immersion is a child of the Immersion theme. Without that parent
+        // installed the styles, templates and options it inherits are missing,
+        // so refuse to register anything and surface a notice to admins.
+        if (!$this->isParentThemeAvailable()) {
+            $this->registerMissingParentNotice();
+            return;
+        }
+
+        $this->setParent(self::PARENT_THEME_KEY);
 
         $this->addStyle('child-stylesheet', 'styles/index.less');
 
@@ -35,6 +50,42 @@ class SmwImmersionChildThemePlugin extends ThemePlugin {
 
         Hook::add('TemplateManager::display', [$this, 'addSearchTemplateData']);
         Hook::add('ArticleHandler::view::galley', [$this, 'triggerArticleViewHook'], Hook::SEQUENCE_CORE);
+    }
+
+    /**
+     * Check whether the Immersion parent theme is installed and registered.
+     */
+    private function isParentThemeAvailable(): bool
+    {
+        return PluginRegistry::getPlugin('themes', self::PARENT_THEME_KEY) instanceof ThemePlugin;
+    }
+
+    /**
+     * Flash a warning on the website settings page when an admin lands there
+     * without the required parent theme installed.
+     */
+    private function registerMissingParentNotice(): void
+    {
+        Hook::add('TemplateManager::display', function ($hookName, $args) {
+            $template = $args[1] ?? null;
+            if ($template !== 'management/website.tpl') {
+                return false;
+            }
+
+            $user = Application::get()->getRequest()->getUser();
+            if (!$user) {
+                return false;
+            }
+
+            $notificationMgr = new NotificationManager();
+            $notificationMgr->createTrivialNotification(
+                $user->getId(),
+                Notification::NOTIFICATION_TYPE_WARNING,
+                ['contents' => __('plugins.themes.smwimmersion.parentMissing')]
+            );
+
+            return false;
+        });
     }
 
     /**

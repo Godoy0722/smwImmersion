@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "قالب OJS طوّرته مجلة Swiss Medical Weekly، مبني على قالب Immersion."
+msgstr "قالب OJS طوّرته مجلة Swiss Medical Weekly، مبني على قالب Immersion. يتطلب تثبيت قالب Immersion؛ وإلا فلن يقوم هذا القالب بتحميل أنماطه أو قوالبه أو خطافاته."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "يتطلب قالب SMW تثبيت قالب Immersion. ثبّت Immersion قبل تفعيل قالب SMW؛ وإلا فلن يتم تحميل أنماطه وقوالبه."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "منتقي الألوان"

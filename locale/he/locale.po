@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "ערכת עיצוב ל-OJS שפותחה על ידי כתב העת Swiss Medical Weekly, מבוססת על Immersion."
+msgstr "ערכת עיצוב ל-OJS שפותחה על ידי כתב העת Swiss Medical Weekly, מבוססת על Immersion. דורש שערכת הנושא Immersion תהיה מותקנת; אחרת ערכה זו לא תטען את הסגנונות, התבניות וההוקים שלה."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "ערכת SMW דורשת שערכת Immersion תהיה מותקנת. התקן את Immersion לפני הפעלת ערכת SMW; אחרת הסגנונות והתבניות שלה לא ייטענו."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "בוחר צבע"

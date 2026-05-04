@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "ธีม OJS ที่พัฒนาโดยวารสาร Swiss Medical Weekly อิงจาก Immersion"
+msgstr "ธีม OJS ที่พัฒนาโดยวารสาร Swiss Medical Weekly อิงจาก Immersion ต้องติดตั้งธีม Immersion ก่อน มิฉะนั้นธีมนี้จะไม่โหลดสไตล์ เทมเพลต หรือ hook ของมัน"
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "ธีม SMW ต้องติดตั้งธีม Immersion ก่อน ติดตั้ง Immersion ก่อนเปิดใช้งานธีม SMW มิฉะนั้นสไตล์และเทมเพลตจะไม่ถูกโหลด"
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "ตัวเลือกสี"

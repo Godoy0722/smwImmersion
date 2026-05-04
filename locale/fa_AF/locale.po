@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "پوسته OJS توسعه یافته توسط مجله Swiss Medical Weekly، مبتنی بر پوسته Immersion."
+msgstr "پوسته OJS توسعه یافته توسط مجله Swiss Medical Weekly، مبتنی بر پوسته Immersion. نیازمند نصب قالب Immersion است؛ در غیر این صورت این قالب استایل‌ها، قالب‌ها و هوک‌های خود را بارگذاری نمی‌کند."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "قالب SMW نیازمند نصب قالب Immersion است. پیش از فعال‌سازی قالب SMW، Immersion را نصب کنید؛ در غیر این صورت استایل‌ها و قالب‌های آن بارگذاری نمی‌شوند."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "انتخاب کننده رنگ"

@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "Тэма OJS, распрацаваная часопісам Swiss Medical Weekly, на аснове Immersion."
+msgstr "Тэма OJS, распрацаваная часопісам Swiss Medical Weekly, на аснове Immersion. Патрабуе ўсталяванай тэмы Immersion; інакш гэтая тэма не загрузіць свае стылі, шаблоны ці хукі."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "Тэма SMW патрабуе ўсталяванай тэмы Immersion. Усталюйце Immersion перад актывацыяй тэмы SMW; інакш яе стылі і шаблоны не будуць загружаны."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "Выбар колеру"

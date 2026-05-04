@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "Ùrlar OJS a chaidh a leasachadh leis an iris Swiss Medical Weekly, stèidhichte air Immersion."
+msgstr "Ùrlar OJS a chaidh a leasachadh leis an iris Swiss Medical Weekly, stèidhichte air Immersion. Feumar an cuspair Immersion a bhith air a stàladh; air neo cha luchdaich an cuspair seo a stoidhlichean, teamplaidean no dubhain."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "Tha cuspair SMW ag iarraidh gum bi an cuspair Immersion air a stàladh. Stàlaich Immersion mus cuir thu an gnìomh cuspair SMW; air neo cha tèid a stoidhlichean is teamplaidean a luchdadh."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "Roghnaiche dhathan"

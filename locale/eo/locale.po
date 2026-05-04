@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "OJS-temo evoluigita de la revuo Swiss Medical Weekly, bazita sur Immersion."
+msgstr "OJS-temo evoluigita de la revuo Swiss Medical Weekly, bazita sur Immersion. Postulas instalitan etoson Immersion; alie ĉi tiu etoso ne ŝargos siajn stilojn, ŝablonojn aŭ hokojn."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "La etoso SMW postulas instalitan etoson Immersion. Instalu Immersion antaŭ ol aktivigi la etoson SMW; alie ĝiaj stiloj kaj ŝablonoj ne estos ŝargitaj."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "Kolorelektilo"

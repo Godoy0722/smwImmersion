@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "由期刊《瑞士醫學週刊》（Swiss Medical Weekly）開發的 OJS 佈景主題，以 Immersion 為基礎。"
+msgstr "由期刊《瑞士醫學週刊》（Swiss Medical Weekly）開發的 OJS 佈景主題，以 Immersion 為基礎。 需要先安裝 Immersion 主題；否則此主題將不會載入其樣式、模板或鉤子。"
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "SMW 主題需要先安裝 Immersion 主題。啟用 SMW 主題前請先安裝 Immersion；否則其樣式和模板將無法載入。"
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "顏色選擇器"

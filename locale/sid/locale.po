@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "Swiss Medical Weekly magazineti kalaqantino OJS amme, Immersion aana kasinoho."
+msgstr "Swiss Medical Weekly magazineti kalaqantino OJS amme, Immersion aana kasinoho. Requires the Immersion theme to be installed; otherwise this theme will not load its styles, templates or hooks."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "The SMW Theme requires the Immersion theme to be installed. Install Immersion before activating SMW Theme; otherwise its styles and templates will not load."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "Nooha doorsha"

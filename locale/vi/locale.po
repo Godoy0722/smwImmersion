@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "Giao diện OJS do tạp chí Swiss Medical Weekly phát triển, dựa trên Immersion."
+msgstr "Giao diện OJS do tạp chí Swiss Medical Weekly phát triển, dựa trên Immersion. Yêu cầu giao diện Immersion đã được cài đặt; nếu không, giao diện này sẽ không tải các kiểu, mẫu hoặc hook của nó."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "Giao diện SMW yêu cầu giao diện Immersion đã được cài đặt. Hãy cài đặt Immersion trước khi kích hoạt giao diện SMW; nếu không, kiểu và mẫu của nó sẽ không được tải."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "Bộ chọn màu"

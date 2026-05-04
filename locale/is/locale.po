@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "OJS þema þróað af tímaritinu Swiss Medical Weekly, byggt á Immersion."
+msgstr "OJS þema þróað af tímaritinu Swiss Medical Weekly, byggt á Immersion. Krefst þess að Immersion-þemað sé uppsett; annars hleður þetta þema ekki stílum, sniðmátum eða krókum sínum."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "SMW-þemað krefst þess að Immersion-þemað sé uppsett. Settu upp Immersion áður en þú virkjar SMW-þemað; annars verða stílar og sniðmát þess ekki hlaðin."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "Litaval"

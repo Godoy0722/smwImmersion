@@ -15,7 +15,10 @@ msgid "plugins.themes.smwimmersion.name"
 msgstr "SMW Theme"
 
 msgid "plugins.themes.smwimmersion.description"
-msgstr "Swiss Medical Weekly aldizkariak garatutako OJS gaia, Immersion-en oinarritua."
+msgstr "Swiss Medical Weekly aldizkariak garatutako OJS gaia, Immersion-en oinarritua. Immersion gaia instalatuta egotea eskatzen du; bestela, gai honek ez ditu kargatuko bere estiloak, txantiloiak edo hookak."
+
+msgid "plugins.themes.smwimmersion.parentMissing"
+msgstr "SMW gaiak Immersion gaia instalatuta egotea eskatzen du. Instalatu Immersion SMW gaia aktibatu aurretik; bestela, bere estiloak eta txantiloiak ez dira kargatuko."
 
 msgid "plugins.themes.smwimmersion.colorPick"
 msgstr "Kolore hautatzailea"

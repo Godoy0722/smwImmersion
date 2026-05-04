@@ -29,6 +29,10 @@ class SmwImmersionChildThemePlugin extends ThemePlugin {
 
         $this->addStyle('child-stylesheet', 'styles/index.less');
 
+        $this->addScript('smwArticleDetails', 'js/articleDetails.js', ['contexts' => 'frontend']);
+        $this->addScript('smwArticleFulltext', 'js/articleFulltext.js', ['contexts' => 'frontend']);
+        $this->addScript('smwHtmlGalley', 'js/htmlGalley.js', ['contexts' => 'frontend']);
+
         Hook::add('TemplateManager::display', [$this, 'addSearchTemplateData']);
         Hook::add('ArticleHandler::view::galley', [$this, 'triggerArticleViewHook'], Hook::SEQUENCE_CORE);
     }

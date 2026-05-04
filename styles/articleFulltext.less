@@ -1,0 +1,218 @@
+/**
+ * @file styles/articleFulltext.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Styles for the HTML galley fulltext view (article_fulltext.tpl).
+ *  Extracted from the inline <style> blocks previously embedded in templates.
+ */
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 3rem;
+}
+
+.article-page {
+    h1 {
+        font-size: 2.25rem;
+        margin-top: 1rem;
+    }
+
+    h4 {
+        font-weight: normal;
+        margin-top: 1.5rem;
+    }
+
+    a {
+        color: #041469;
+    }
+}
+
+main a:after,
+aside a:after {
+    border-bottom: 1px solid #041469;
+}
+
+#htmlContainer {
+    table {
+        width: 100%;
+        margin-bottom: 1rem;
+        display: block;
+        overflow-x: auto;
+    }
+
+    .dynTable {
+        border: 2px;
+        display: inline-table !important;
+    }
+
+    th,
+    td {
+        padding: 5px;
+        font-family: 'Inter', sans-serif;
+    }
+
+    .table-wrap-foot,
+    .table-caption {
+        font-size: smaller;
+    }
+
+    .table-caption .label,
+    .image-label,
+    .fn .label {
+        font-weight: bold;
+    }
+
+    .table-caption .label::after,
+    .image-label::after {
+        content: ". ";
+    }
+
+    li {
+        list-style-type: auto;
+    }
+
+    .ref {
+        font-size: 16px;
+    }
+
+    & > div.article-meta > p > sup {
+        margin-right: 0.25rem !important;
+    }
+}
+
+aside > figure > img {
+    height: 255px !important;
+    width: 255px !important;
+}
+
+ul,
+ol {
+    padding-inline-start: 18px;
+}
+
+p.correspondence,
+div.author-notes {
+    margin-bottom: 0;
+    line-height: 1.4rem;
+}
+
+div.fig {
+    font-size: smaller;
+}
+
+.sidetoc {
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: #f2f2f2;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+
+    a {
+        text-rendering: optimizeLegibility;
+        font-size: 0.85rem;
+        list-style: none;
+        line-height: 1.5;
+        font-family: 'Inter', sans-serif;
+        font-weight: 400;
+        text-align: left;
+        box-sizing: border-box;
+        text-decoration: none;
+        background-color: transparent;
+        display: block;
+        box-shadow: none;
+        margin-left: 0;
+        padding: 5px 8px 4px 8px;
+        color: #1b8798;
+        border: 1px solid #f2f2f2;
+
+        &:hover,
+        &:active,
+        &:focus {
+            color: #1b8798;
+            background-color: #e8e8e8;
+            border: 1px solid #1b8798;
+        }
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        margin-left: 1rem;
+        margin-right: 1rem;
+        text-align: center;
+        overflow: clip;
+    }
+}
+
+.bullet li {
+    list-style-type: disc !important;
+}
+
+.altmetric-embed img,
+.__dimensions_Badge_Image {
+    height: 80px !important;
+    width: 80px !important;
+}
+
+.exlink a {
+    background-color: #24B6CD !important;
+    border: 1px solid #24B6CD;
+    font-weight: 600;
+    color: #000 !important;
+    padding: 6px 12px;
+
+    &:hover {
+        background-color: #fff !important;
+        border: 1px solid #000;
+        color: #000;
+    }
+}
+
+.mimage,
+.mimage img {
+    cursor: pointer !important;
+}
+
+.smw-image-modal {
+    display: none;
+    position: fixed;
+    z-index: 1050;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+
+    &__content {
+        background-color: #fefefe;
+        margin: 15% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+    }
+
+    &__close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+
+        &:hover,
+        &:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    }
+}

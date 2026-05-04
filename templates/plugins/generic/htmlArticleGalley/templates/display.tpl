@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2026 Simon Fraser University
  * Copyright (c) 2026 John Willinsky
- * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * @brief Display the page to view an article with all of it's details.
  *
@@ -41,38 +41,17 @@
     </div>
 </main><!-- .page -->
 
-<style>
-body { background-color:#FFFFFF;}
-aside { background-color:#e8e8e8;}
-.article-page { background-color:#FFFFFF;padding-top:0;}
-</style>
+{*
+    Galley page wrapper. Styles live in styles/htmlGalley.less and the
+    galley loader lives in js/htmlGalley.js — both registered by
+    SmwImmersionChildThemePlugin::init(). The element below carries the
+    galley download URL via a data attribute (escaped by Smarty), avoiding
+    inline JavaScript entirely.
+*}
+<div
+	id="smwGalleyConfig"
+	hidden
+    data-url="{url page="article" op="download" path=$articleId|to_array:$galley->getBestGalleyId() inline=true}"
+></div>
 
 {include file="frontend/components/footer.tpl"}
-
-<script>
-fetch("{url page="article" op="download" path=$articleId|to_array:$galley->getBestGalleyId() inline=true}", {
-    headers: { 'Accept': 'text/html' }
-}).then(function(response) {
-    return response.text();
-}).then(function(data) {
-    var articleBody = data.replace(/^.*?<body>(.*?)<\/body>.*?$/s, "$1");
-
-    var container = document.createElement('div');
-    container.innerHTML = articleBody;
-    container.querySelectorAll('.page_title, .subtitle').forEach(function(el) { el.remove(); });
-    container.querySelectorAll('img').forEach(function(img) {
-        img.style.maxWidth = '100%';
-        img.style.padding = '5px';
-        img.style.marginBottom = '1rem';
-        img.style.border = '1px solid #e8e8e8';
-    });
-    container.querySelectorAll('table, td, th').forEach(function(el) {
-        el.style.border = '1px solid';
-    });
-    var paragraphs = container.querySelectorAll('p');
-    if (paragraphs[1]) { paragraphs[1].style.display = 'none'; }
-    document.getElementById('htmlContainer').innerHTML = container.innerHTML;
-});
-</script>
-
-

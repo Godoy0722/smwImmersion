@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2026 Simon Fraser University
  * Copyright (c) 2026 John Willinsky
- * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * @brief Common site frontend footer.
  *
@@ -36,7 +36,7 @@
 </footer>
 
 {* Login modal *}
-{if $requestedOp|escape != "register"}
+{if $requestedOp != "register"}
     <div id="loginModal" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">

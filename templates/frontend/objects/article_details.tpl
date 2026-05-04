@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2026 Simon Fraser University
  * Copyright (c) 2026 John Willinsky
- * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * @brief View of an Article which displays all details about the article.
  *  Expected to be primary object on the page.
@@ -80,13 +80,13 @@
 
         {assign var=doiObject value=$article->getCurrentPublication()->getData('doiObject')}
         {if $doiObject}
-            {assign var="doiUrl" value=$doiObject->getData('resolvingUrl')|escape}
+            {assign var="doiUrl" value=$doiObject->getData('resolvingUrl')}
             <dl>
                 <dt>DOI:</dt>
                 <dd>
-                    <a href="{$doiUrl}" class="text-decoration-none">{$doiUrl}</a>
+                    <a href="{$doiUrl|escape}" class="text-decoration-none">{$doiUrl|escape}</a>
                 </dd>
-            <dl>
+            </dl>
         {/if}
 
         {if $section}
@@ -106,7 +106,7 @@
         {* Article Subtitle *}
         {if $publication->getLocalizedData('subtitle')}
             <h2 class="article-page__subtitle">
-                <span>{$publication->getLocalizedData('subtitle')}</span>
+                <span>{$publication->getLocalizedData('subtitle')|escape}</span>
             </h2>
         {/if}
 
@@ -187,11 +187,11 @@
             </dt>
             <dd>
 
-            <span id="citestring" style="">
-                {$currentJournal->getLocalizedName()}
-                {if $issue->getYear()} {$issue->getYear()}{/if}
-                {if $issue->getVolume()}{if $issue->getYear()};{/if}{translate key="issue.vol"} {$issue->getVolume()}{/if}
-                {if $publication->getData('pages')}:{$publication->getData('pages')}{/if}
+            <span id="citestring">
+                {$currentJournal->getLocalizedName()|escape}
+                {if $issue->getYear()} {$issue->getYear()|escape}{/if}
+                {if $issue->getVolume()}{if $issue->getYear()};{/if}{translate key="issue.vol"} {$issue->getVolume()|escape}{/if}
+                {if $publication->getData('pages')}:{$publication->getData('pages')|escape}{/if}
             </span>
             </dd>
 
@@ -268,82 +268,3 @@
 <aside class="col-md-4 offset-lg-1 col-lg-3 article-sidebar">
     {include file="frontend/components/article_sidebar.tpl"}
 </aside>
-
-<style>
-aside > figure > img {
-  height:255px !important;
-  width:255px !important;
-}
-
-.exlink a {
-  background-color: #24B6CD !important;
-  border: 1px solid #24B6CD;
-  font-weight: 600;
-  color: #000 !important;
-  padding: 6px 12px;
-}
-
-.exlink a:hover {
-    background-color: #fff !important;
-    border: 1px solid #000;
-    color: #000;
-}
-
-.author-symbol {
-    display: none;
-}
-
-.authors-string__item a {
-    color: #000000 !important;
-    text-decoration: none;
-}
-
-.authors-string__item a:hover {
-    text-decoration: none;
-    cursor:auto;
-}
-
-.author-string__href::after{
-    border-bottom:none !important;
-}
-
-.article-page__meta {
-    font-size:1rem;
-}
-
-</style>
-
-<script>
-window.onload = function(){
-
-  function myReplaceFunction() {
-
-    // adjust shariff buttons
-    shariff = document.getElementsByClassName("shariff");
-    for (let i = 0; i < shariff.length; i++) {
-      document.getElementsByClassName("shariff")[i].setAttribute("data-button-style","icon");
-    }
-    shList = document.getElementsByClassName("button-style-standard");
-    for (let i = 0; i < shList.length; i++) {
-      var element = document.getElementsByClassName("button-style-standard")[i];
-      element.classList.remove("button-style-standard");
-    }
-
-    //remove trailing period in copyright info
-    cright = document.getElementsByClassName("copyright-info");
-    for (let i = 0; i < cright.length; i++) {
-      var element = document.getElementsByClassName("copyright-info")[i];
-      var nodes = element.getElementsByTagName("p");
-      var crstring = nodes[1].innerHTML;
-      crstring = crstring.substring(0,crstring.length-1);
-      nodes[1].innerHTML = crstring;
-    }
-
-
-  }
-
-  setTimeout(myReplaceFunction, 500); // necessary bc html needs to load first
-
-};
-
-</script>

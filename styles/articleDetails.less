@@ -1,0 +1,51 @@
+/**
+ * @file styles/articleDetails.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Styles for the article landing page (article_details.tpl).
+ *  Extracted from the inline <style> block previously embedded in the template.
+ */
+
+aside > figure > img {
+    height: 255px !important;
+    width: 255px !important;
+}
+
+.exlink a {
+    background-color: #24B6CD !important;
+    border: 1px solid #24B6CD;
+    font-weight: 600;
+    color: #000 !important;
+    padding: 6px 12px;
+
+    &:hover {
+        background-color: #fff !important;
+        border: 1px solid #000;
+        color: #000;
+    }
+}
+
+.author-symbol {
+    display: none;
+}
+
+.authors-string__item a {
+    color: #000 !important;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none;
+        cursor: auto;
+    }
+}
+
+.author-string__href::after {
+    border-bottom: none !important;
+}
+
+.article-page__meta {
+    font-size: 1rem;
+}

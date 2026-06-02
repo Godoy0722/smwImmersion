@@ -29,7 +29,7 @@
     </div>
     <div class="row">
         <div class="main_entry">
-        <!-- sub-oh Hierhin kommt der Inhalt der HTML-Datei -->
+        <!-- sub-oh The content of the HTML file goes here -->
         <div class="item" id="htmlContainer2" style="padding: 0;display:none;">
             <div style="padding: 30px;">
                 <i class="fa fa-spinner fa-spin" style="font-size: 3em;"></i>

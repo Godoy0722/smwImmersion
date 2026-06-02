@@ -23,7 +23,7 @@
         <div class="row">
             {if $pageFooter}
                 <div class="col-md-8">
-                    {$pageFooter}
+                    {$pageFooter|escape}
                 </div>
             {/if}
             <div class="col-2 col-sm-4 text-end" role="complementary">

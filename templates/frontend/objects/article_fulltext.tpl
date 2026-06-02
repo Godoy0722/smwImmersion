@@ -103,7 +103,7 @@
     {* Hook for plugins under the main block, like Recommend Articles by Author *}
     {call_hook name="Templates::Article::Main"}
 
-    <!-- sub-oh Hierhin kommt der Inhalt der HTML-Datei -->
+    <!-- sub-oh The content of the HTML file goes here -->
     <div class="item" id="htmlContainer" style="padding: 0;">
         <div style="padding: 30px; display: none;">
             <i class="fa fa-spinner fa-spin" style="font-size: 3em;"></i>

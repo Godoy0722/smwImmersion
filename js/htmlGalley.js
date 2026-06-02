@@ -48,8 +48,12 @@
                     el.removeAttribute(name);
                     continue;
                 }
-                if ((name === 'href' || name === 'src' || name === 'xlink:href') &&
-                    /^\s*javascript:/i.test(value)) {
+                if (name === 'href' && /^\s*(javascript|data):/i.test(value)) {
+                    el.removeAttribute(name);
+                    continue;
+                }
+                if ((name === 'src' || name === 'xlink:href') &&
+                    /^\s*(javascript:|data:(text\/html|image\/svg))/i.test(value)) {
                     el.removeAttribute(name);
                 }
             }
@@ -74,7 +78,6 @@
 
         var titles = container.querySelectorAll('.page_title, .subtitle');
         for (var t = 0; t < titles.length; t++) {
-			titles.remove();
             titles[t].parentNode.removeChild(titles[t]);
         }
 
